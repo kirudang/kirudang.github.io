@@ -1,14 +1,15 @@
 title: Kiel Dang # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Scientist / Machine Learning Engineer with 6+ years of commercial experience in analytics and strategy.
-  Completed and a Master's degree in Data Science, Applied Machine Intelligence from Northeastern University. 
-  Previously at Deloitte, Definity Financial, Northeastern University, Alibaba E-commerce.
+  Data Scientist / ML Engineer with 6+ years of commercial experience in analytics and strategy.
+  Completed a Master's degree in Data Science, Applied Machine Intelligence from Northeastern University. 
+  Previously at Deloitte, Definity, Northeastern University, Alibaba E-commerce.
   <br><br>
-  - Served as a teaching assistant at Northeastern University.
-  - Ranked top 1 student of the faculty - Fall 2021 Cohort. 
+  - .
+  Ranked top 1 student of the faculty (Fall 2021 Cohort) and served as a Statistic TA at the university. 
   <br><br>
   <a href="https://www.linkedin.com/in/kirudang/">View My LinkedIn Profile</a> 
+  
   <a href="https://medium.com/@kirudang">View My Medium Blog</a> 
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
