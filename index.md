@@ -6,7 +6,7 @@
 
 Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
 
-<video src="https://user-images.githubusercontent.com/91911269/230793283-60eed1d0-6e28-453f-a0fc-5218dcec4253.mp4" controls>
+<video src="https://user-images.githubusercontent.com/91911269/232245448-62de1f12-1262-4efa-878b-150b9f3d96cc.mp4" controls style="width: 640px; height: 360px;">
 </video>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
