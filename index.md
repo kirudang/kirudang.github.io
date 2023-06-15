@@ -15,6 +15,24 @@ This application predicts the salary of software engineers based on key pieces o
 
 ---
 
+### CV and Job Matching
+
+## CV Job Matching Algorithm
+
+This application predicts the matching percentage of a candidate's resume to a job posting. It utilizes the Doc2Vec model, which represents job descriptions and resumes as numerical vectors. Doc2Vec combines the **Continuous Bag-of-Words (CBOW)** and **Skip-Gram** techniques to efficiently compare and calculate similarity between textual documents.
+
+**Use-case:** The algorithm serves as the first step in a use-case scenario where a company receives multiple job applications for various job postings. The second step involves employing the modified Gale-Shapley algorithm to index candidates for each job and select the best match.
+
+The trained model can be easily deployed and hosted online (**Azure**), providing a convenient solution for matching CVs with job postings.
+
+<img width="561" alt="Screenshot 2023-06-11 at 10 17 24 PM" src="https://github.com/kirudang/CV-Job-matching/assets/91911269/93041869-4641-4133-99f9-fd723acc89f5">
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Streamlit-white?logo=streamlit)](#) [![](https://img.shields.io/badge/Virtual_Enviroment-white?logo=virtualenv)](#) [![](https://img.shields.io/badge/Docker-white?logo=docker)](#) [![](https://img.shields.io/badge/Google_Cloud_Platform-white?logo=googlecloud)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Microsoft_Azure-white?logo=microsoftazure)](#) [![](https://img.shields.io/badge/Doc2Vec-white)](#) [![](https://img.shields.io/badge/Gale--Shapley-white)](#) [![](https://img.shields.io/badge/Beautiful_Soup-white)](#)
+
+[View code on Github](https://github.com/kirudang/CV-Job-matching/tree/main)
+
+---
 ### Sales forecasting using SARIMAX (Industry best practices)
 
 This project follows industry best practices to address time series problems and involves key steps such as checking for stationarity, data transformation, decomposing models into components, anomaly detection, white noise checking, identifying orders, and performance measurement. The goal is to provide accurate sales forecasts for Walmart superstore and facilitate data-driven decisions.
