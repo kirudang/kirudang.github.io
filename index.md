@@ -27,7 +27,6 @@ The trained model can be easily deployed and hosted online (**Azure**), providin
 
 <img width="561" alt="Screenshot 2023-06-11 at 10 17 24 PM" src="https://github.com/kirudang/CV-Job-matching/assets/91911269/93041869-4641-4133-99f9-fd723acc89f5">
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Streamlit-white?logo=streamlit)](#) [![](https://img.shields.io/badge/Virtual_Enviroment-white?logo=virtualenv)](#) [![](https://img.shields.io/badge/Docker-white?logo=docker)](#) [![](https://img.shields.io/badge/Google_Cloud_Platform-white?logo=googlecloud)](#)
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Microsoft_Azure-white?logo=microsoftazure)](#) [![](https://img.shields.io/badge/Doc2Vec-white)](#) [![](https://img.shields.io/badge/Gale--Shapley-white)](#) [![](https://img.shields.io/badge/Beautiful_Soup-white)](#)
 
 [View code on Github](https://github.com/kirudang/CV-Job-matching/tree/main)
