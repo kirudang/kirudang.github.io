@@ -19,11 +19,10 @@ This application predicts the salary of software engineers based on key pieces o
 
 ## CV Job Matching Algorithm
 
-This application predicts the matching percentage of a candidate's resume to a job posting. It utilizes the Doc2Vec model, which represents job descriptions and resumes as numerical vectors. Doc2Vec combines the **Continuous Bag-of-Words (CBOW)** and **Skip-Gram** techniques to efficiently compare and calculate similarity between textual documents.
+This application predicts the matching percentage of a candidate's resume to a job posting. It utilizes the Doc2Vec model, which represents job descriptions and resumes as numerical vectors. Doc2Vec combines the **Continuous Bag-of-Words (CBOW)** and **Skip-Gram** techniques to efficiently compare and calculate similarity between textual documents. The trained model can be easily deployed and hosted online (**Azure**), providing a convenient solution for matching CVs with job postings.
+**Note:** The algorithm serves as the first step in a use-case scenario where a company receives multiple job applications for various job postings. The second step involves employing the modified **Gale-Shapley algorithm** to index candidates for each job and select the best match.
 
-**Use-case:** The algorithm serves as the first step in a use-case scenario where a company receives multiple job applications for various job postings. The second step involves employing the modified Gale-Shapley algorithm to index candidates for each job and select the best match.
 
-The trained model can be easily deployed and hosted online (**Azure**), providing a convenient solution for matching CVs with job postings.
 
 <img width="561" alt="Screenshot 2023-06-11 at 10 17 24 PM" src="https://github.com/kirudang/CV-Job-matching/assets/91911269/93041869-4641-4133-99f9-fd723acc89f5">
 
