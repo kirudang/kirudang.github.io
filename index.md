@@ -41,7 +41,7 @@ This project follows industry best practices to address time series problems and
 [View code on Github](https://github.com/kirudang/Walmart_sales_forecast)
 
 ---
-
+---
 ## 👋 Welcome to my portfolio
 
 Hello! My name is Kiel, and I set up this page to showcase some of the data science projects I've been working on.
@@ -57,14 +57,4 @@ Thanks for reading,
 
 Kiel
 
----
- 
-<!--  ### Using BERT and Naïve Bayes models for helpfulness prediction of Amazon reviews
-The quality and helpfulness of online reviews can vary greatly, meaning readers must often sift through a deluge of online reviews in order to find the most relevant ones. In this project, I compared the performance of various ML models for predicting the helpfulness of an Amazon review given its text and metadata.  
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Amazon-white?logo=Amazon)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
-
-[View code on Colab](https://colab.research.google.com/drive/19N1n117gN_qHPVd8VqqRDur5v8z0tANY?usp=sharing)
-
----
 
