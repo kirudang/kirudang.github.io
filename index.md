@@ -49,7 +49,7 @@ Hello! My name is Kiel, and I set up this page to showcase some of the data scie
 Data science practitioner with robust business acumen, boasting 2 professional working years of hands-on experience in data preprocessing and predictive modeling. Expert in SQL, Python, and R, with a track record of success in applying machine learning and statistical analysis to solve complex problems.
 
 
-My [CV]([https://github.com/kirudang/kirudang.github.io/blob/main/CV/CV-Kiel-Dang.pdf]) has plenty of information about the professional projects I've worked on, but the purpose of this page is to showcase some of my favourite personal (on-the-side) projects in a more visual way. 
+My [CV](https://github.com/kirudang/kirudang.github.io/blob/main/CV/CV-Kiel-Dang.pdf) has plenty of information about the professional projects I've worked on, but the purpose of this page is to showcase some of my favourite personal (on-the-side) projects in a more visual way. 
 
 If you have any questions, feel free to drop me an [email](mailto:dang.v@northeastern.edu) or send me a message on [LinkedIn](https://www.linkedin.com/in/kirudang/). 
 
