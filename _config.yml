@@ -11,10 +11,21 @@ description: > # your text below (remove <br> elements if you don't need line br
     Valedictorian of Master in Analytics, Machine Intelligence (Fall 2021 Cohort) with an overall GPA of 4.0 (97.89%) and served as a Statistics TA at the university. 
   </div>
   <br><br>
-  <div style="text-align: justify;">
-    <a href="https://www.linkedin.com/in/kirudang/">View My LinkedIn Profile</a> 
+  <div>
+    <a href="https://www.linkedin.com/in/kirudang/">View My LinkedIn Profile</a>
+  </div>
+  <div>
     <a href="https://medium.com/@kirudang">View My Medium Blog</a>
+  </div>
+  <div>
     <a href="https://github.com/kirudang">Return my Github</a> 
+  </div>
+  <div>
+    <!-- Add your logos here -->
+    <img src="/images/linkedin_logo.png" width="50" height="50">
+    <img src="/images/medium_logo.png" width="50" height="50">
+    <img src="/images/github_logo.png" width="50" height="50">
   </div>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
