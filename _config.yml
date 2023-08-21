@@ -1,15 +1,15 @@
 title: Kiel Dang 
 logo: "/images/small logo.png?raw=true" 
-description: > # your text below (remove <br> elements if you don't need line breaks)
+description: > 
    💻 Data Scientist / ML Engineer with 6+ years of commercial experience in analytics and strategy. Previously at Definity Insurance, Northeastern University, Alibaba E-commerce, VINAMILK, and Unilever.
-  <br><br>
+   <br><br>
    🎓 Valedictorian of Master in Analytics, Machine Intelligence (Fall 2021 Cohort) with an overall GPA of 4.0 (97.89%) and served as a Statistics TA at the university. 
-  <br><br>
-  <a [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn) href="https://www.linkedin.com/in/kirudang/">View My LinkedIn Profile</a> 
-  <br><br>
-  <a [![Medium](https://img.shields.io/badge/Medium-black?logo=Medium) href="https://medium.com/@kirudang">View My Medium Blog</a>
-  <br><br>
-  <a [![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub) href="https://github.com/kirudang">Return my Github</a> 
-  <br><br>
+   <br><br>
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/kirudang/) View My LinkedIn Profile
+   <br><br>
+   [![Medium](https://img.shields.io/badge/Medium-black?logo=Medium)](https://medium.com/@kirudang) View My Medium Blog
+   <br><br>
+   [![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub)](https://github.com/kirudang) Return to My GitHub
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
