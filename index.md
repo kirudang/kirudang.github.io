@@ -1,4 +1,4 @@
-#  <span style="color: cyan;">My highlighted projects in data science and MLOps.</span>
+#  <span style="color: #2471A3;">My highlighted projects in data science and MLOps.</span>
 
 ---
 ## 📘 MLOPs
