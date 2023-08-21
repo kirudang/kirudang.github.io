@@ -49,7 +49,9 @@ This project follows industry best practices to address time series problems and
 ### ✨ Walmart Ecommerce Dashboard Project
 This project showcases the creation of an interactive Ecommerce Dashboard for Walmart using **Power BI**. The goal was to analyze and visualize key performance indicators (KPIs) to gain insights into sales, revenue, customer behavior, and more. The project followed a structured approach, encompassing defining KPIs, working with raw data in **SQL Server** for efficient manipulation, building SQL queries for validation, connecting Power BI for visualization, and utilizing Power Query for data cleaning. By incorporating calculated measures and time intelligence functions, the dashboard provides a comprehensive overview of Walmart's ecommerce operations. The project follows a **standard pipeline** in BI and DA, starting from database to transformation and visualization"
 
-https://github.com/kirudang/Ecom_dashboard_Walmart/assets/91911269/3d696c0e-58ef-40ed-a74d-7942ac154365
+
+<video src="https://github.com/kirudang/Ecom_dashboard_Walmart/assets/91911269/3d696c0e-58ef-40ed-a74d-7942ac154365" controls style="width: 640px; height: 360px;">
+</video>
 
 [![](https://img.shields.io/badge/Power%20BI-blue?logo=Power-BI)](#) [![](https://img.shields.io/badge/SQL%20Server-blue?logo=Microsoft-SQL-Server)](#) [![](https://img.shields.io/badge/Power%20Query-blue)](#)
 
