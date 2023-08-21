@@ -47,16 +47,15 @@ This project follows industry best practices to address time series problems and
 ## 📘 Data Analysis and Business Intelligence
 ---
 ### ✨ Walmart Ecommerce Dashboard Project
-This project showcases the creation of an interactive Ecommerce Dashboard for Walmart using **Power BI**. The goal was to analyze and visualize key performance indicators (KPIs) to gain insights into sales, revenue, customer behavior, and more. The project followed a structured approach, encompassing defining KPIs, working with raw data in **SQL Server** for efficient manipulation, building SQL queries for validation, connecting Power BI for visualization, and utilizing Power Query for data cleaning. By incorporating calculated measures and time intelligence functions, the dashboard provides a comprehensive overview of Walmart's ecommerce operations. The project follows a **standard pipeline** in BI and DA, starting from database to transformation and visualization"
 
+This project showcases the creation of an interactive Ecommerce Dashboard for Walmart using **Power BI**. The goal was to analyze and visualize key performance indicators (KPIs) to gain insights into sales, revenue, customer behavior, and more. The project followed a structured approach, encompassing defining KPIs, working with raw data in **SQL Server** for efficient manipulation, building SQL queries for validation, connecting Power BI for visualization, and utilizing Power Query for data cleaning. By incorporating calculated measures and time intelligence functions, the dashboard provides a comprehensive overview of Walmart's ecommerce operations. The project follows a **standard pipeline** in BI and DA, starting from database to transformation and visualization.
 
-<video src="https://youtu.be/md89TPyT_lM" controls style="width: 640px; height: 360px;">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/md89TPyT_lM" frameborder="0" allowfullscreen></iframe>
 
-
-[![](https://img.shields.io/badge/Power%20BI-blue?logo=Power-BI)](#) [![](https://img.shields.io/badge/SQL%20Server-blue?logo=Microsoft-SQL-Server)](#) [![](https://img.shields.io/badge/Power%20Query-blue)](#)
+[![Power BI](https://img.shields.io/badge/Power%20BI-blue?logo=Power-BI)](#) [![SQL Server](https://img.shields.io/badge/SQL%20Server-blue?logo=Microsoft-SQL-Server)](#) [![Power Query](https://img.shields.io/badge/Power%20Query-blue)](#)
 
 [View code on Github](https://github.com/kirudang/Ecom_dashboard_Walmart/tree/main)
+
 
 ---
 ## 💻💻💻 Welcome to my portfolio 💻💻💻
