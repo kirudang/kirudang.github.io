@@ -56,6 +56,19 @@ This project showcases the creation of an interactive Ecommerce Dashboard for Wa
 
 [View code on Github](https://github.com/kirudang/Ecom_dashboard_Walmart/tree/main)
 
+---
+### ✨ CO2 Emission Data Visualization Dashboard
+
+This interactive dashboard project empowers users to explore and visualize carbon dioxide (CO2) emissions data from Our World in Data. It leverages cutting-edge Python libraries, including **Panel**, **Hvplot**, and **GeoPandas**, to create an intuitive and informative platform for analyzing CO2 emissions worldwide. The dashboard enables users to filter emissions data by year and country, compare emissions trends through scatterplots, and visualize geographical variations on a map. It serves as a valuable tool for gaining insights into the primary driver of global climate change and fostering data-driven discussions around emissions reduction.
+
+https://github.com/kirudang/Interactive_dashboard_Panel/assets/91911269/cd230aa1-e1ae-4847-be22-f39290d36f2d
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Panel-white)](#) [![](https://img.shields.io/badge/Hvplot-white)](#) [![](https://img.shields.io/badge/GeoPandas-white)](#)
+
+[View code on Github](https://github.com/kirudang/Interactive_dashboard_Panel)
+
+---
+
 
 ---
 ## 💻💻💻 Welcome to my portfolio 💻💻💻
