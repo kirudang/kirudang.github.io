@@ -27,7 +27,7 @@ This project delves into the captivating "Dune" book series by Frank Herbert usi
 - Evaluates community structure with modularity analysis and centrality measures.
 ![ezgif com-video-to-gif](https://github.com/kirudang/kirudang.github.io/assets/91911269/b5f984fb-d84b-42d6-ae4a-19ac8a32632f)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/NetworkX-white)](#) [![](https://img.shields.io/badge/Louvain_Algorithm-white)](#) [![](https://img.shields.io/badge/Named_Entity_Recognition-white)](#) [![](https://img.shields.io/badge/Modularity_Analysis-white)](#) [![](https://img.shields.io/badge/Centrality_Measures-white)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/SpaCy-white?logo=SpaCy)](#) [![](https://img.shields.io/badge/NetworkX-white)](#) [![](https://img.shields.io/badge/NER-white)](#) [![](https://img.shields.io/badge/Louvain-white)](#)
 
 [View project on Github](https://github.com/kirudang/Network_analysis_Dune)
 
