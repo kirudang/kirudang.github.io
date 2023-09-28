@@ -17,6 +17,21 @@ This application predicts the salary of software engineers based on key pieces o
 ---
 ## 📘 Data Science
 ---
+### ✨ Dune Series Network Analysis and Community Detection
+
+This project delves into the captivating "Dune" book series by Frank Herbert using advanced data analysis techniques. By harnessing natural language processing and network science, we uncover the intricate web of character relationships and communities within this iconic science fiction universe.
+🔍 **Project Highlights:**
+- Utilizes Named Entity Recognition (NER) to extract character and location names.
+- Constructs a character relationship graph using NetworkX.
+- Applies the Louvain Algorithm for community detection.
+- Evaluates community structure with modularity analysis and centrality measures.
+![ezgif com-video-to-gif](https://github.com/kirudang/kirudang.github.io/assets/91911269/b5f984fb-d84b-42d6-ae4a-19ac8a32632f)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/NetworkX-white)](#) [![](https://img.shields.io/badge/Louvain_Algorithm-white)](#) [![](https://img.shields.io/badge/Named_Entity_Recognition-white)](#) [![](https://img.shields.io/badge/Modularity_Analysis-white)](#) [![](https://img.shields.io/badge/Centrality_Measures-white)](#)
+
+[View project on Github](https://github.com/kirudang/Network_analysis_Dune)
+
+---
 ### ✨ CV and Job Matching
 
 This application predicts the matching percentage of a candidate's resume to a job posting. It utilizes the Doc2Vec model, which represents job descriptions and resumes as numerical vectors. Doc2Vec combines the **Continuous Bag-of-Words (CBOW)** and **Skip-Gram** techniques to efficiently compare and calculate similarity between textual documents. The trained model can be easily deployed and hosted online (**Azure**), providing a convenient solution for matching CVs with job postings.
