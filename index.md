@@ -1,21 +1,31 @@
-#  <span style="color: #2471A3;">My highlighted projects in data science and MLOps.</span>
+#  <span style="color: #2471A3;">My highlighted Data Science projects.</span>
+
 
 ---
-## 📘 MLOPs
+## 📘 Deep Learning and AI
 ---
-### ✨ Salary Prediction Application
+### ✨ Construction Safety - Object Detection 
+This  project is designed to **identify unsafe holes on construction sites**, helping to ensure the well-being of workers and the integrity of job sites. When combined with a Personal Protective Equipment (PPE) detection model, it forms a robust safety monitoring system deployed on Jetson-based edge inference systems.
 
-This application predicts the salary of software engineers based on key pieces of information. It features two sections: a prediction page for salary prediction and an exploration page for EDA insights from the dataset. The predictions are generated using an **XGBoost model**, while the web app is built on **Streamlit** framework. To ensure the reproducibility, **virtual environments** are utilized on local hosts and contained by **Docker**. This app is deployed on **GCP** as well. A video guide on how to use the application is also available.
+🛠️ **Workflow and Tech Stack**: To train this model, I adopted an Iterative Training Process. Data preparation and deployment were accomplished with Roboflow, while model customization took place in Google Colab.
 
-<video src="https://user-images.githubusercontent.com/91911269/232245448-62de1f12-1262-4efa-878b-150b9f3d96cc.mp4" controls style="width: 640px; height: 360px;">
+🔬 **Techniques and Strategies**: Transfer learning, Hyperparameter tunning, Multiple Deep Learning Algorithms to train and compare (YOLO, DETR, RCNN, COCO, UNet), Iterative training and Model Refinement.
+
+<video src="https://github.com/kirudang/Construction_safety/assets/91911269/cc3c32a1-b3fc-4076-a2a0-d63139ed6c05" controls style="width: 640px; height: 360px;">
 </video>
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Streamlit-white?logo=streamlit)](#) [![](https://img.shields.io/badge/Virtual_Enviroment-white?logo=virtualenv)](#) [![](https://img.shields.io/badge/Docker-white?logo=docker)](#) [![](https://img.shields.io/badge/Google_Cloud_Platform-white?logo=googlecloud)](#)
+[![Python](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-white?logo=Google-Colab)](#)
+[![Roboflow](https://img.shields.io/badge/Roboflow-white)](#)
+[![RCNN](https://img.shields.io/badge/RCNN-white)](#)
+[![YOLO](https://img.shields.io/badge/YOLO-white)](#)
+[![DETR](https://img.shields.io/badge/DETR-white)](#)
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-white?logo=NVIDIA)](#)
 
-[View code on Github](https://github.com/kirudang/salary_prediction_app)
+[View project on Github](https://github.com/kirudang/Construction_safety)
 
 ---
-## 📘 Data Science
+## 📘 Data Science and Machine Learning
 ---
 ### ✨ Dune Series Network Analysis and Community Detection
 
@@ -75,6 +85,20 @@ This project introduces an innovative solution for automating text data extracti
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/OCR-white)](#) [![](https://img.shields.io/badge/NER-white)](#) [![](https://img.shields.io/badge/RegEx-white)](#) [![](https://img.shields.io/badge/Rule%20Based-white)](#) [![](https://img.shields.io/badge/ChatGPT-white?logo=OpenAI&labelColor=orange)](#)
 
 [View project on Github](https://github.com/kirudang/Automated_Text_Extraction/tree/main)
+
+---
+## 📘 MLOPs
+---
+### ✨ Salary Prediction Application
+
+This application predicts the salary of software engineers based on key pieces of information. It features two sections: a prediction page for salary prediction and an exploration page for EDA insights from the dataset. The predictions are generated using an **XGBoost model**, while the web app is built on **Streamlit** framework. To ensure the reproducibility, **virtual environments** are utilized on local hosts and contained by **Docker**. This app is deployed on **GCP** as well. A video guide on how to use the application is also available.
+
+<video src="https://user-images.githubusercontent.com/91911269/232245448-62de1f12-1262-4efa-878b-150b9f3d96cc.mp4" controls style="width: 640px; height: 360px;">
+</video>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Streamlit-white?logo=streamlit)](#) [![](https://img.shields.io/badge/Virtual_Enviroment-white?logo=virtualenv)](#) [![](https://img.shields.io/badge/Docker-white?logo=docker)](#) [![](https://img.shields.io/badge/Google_Cloud_Platform-white?logo=googlecloud)](#)
+
+[View code on Github](https://github.com/kirudang/salary_prediction_app)
 
 ---
 ## 📘 Data Analysis and Business Intelligence
