@@ -76,7 +76,6 @@ This project introduces an innovative solution for automating text data extracti
 
 [View project on Github](https://github.com/kirudang/Automated_Text_Extraction/tree/main)
 
-Feel free to replace `yourusername/yourproject` with the actual URL of your project repository.
 ---
 ## 📘 Data Analysis and Business Intelligence
 ---
