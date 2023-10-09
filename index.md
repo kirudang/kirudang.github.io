@@ -57,7 +57,26 @@ This project follows industry best practices to address time series problems and
 
 [View code on Github](https://github.com/kirudang/Walmart_sales_forecast)
 
+---
+### ✨ Automated Text Data Extraction and Form Filling System
 
+This project introduces an innovative solution for automating text data extraction and form filling, aiming to streamline data processing in the digital age. Leveraging a combination of OCR, natural language processing, and rule-based approaches, it offers an **efficient way to extract information from unstructured text and populate forms accurately**, saving time and reducing errors.
+
+🔍 **Project Highlights:**
+- Incorporates Optical Character Recognition (OCR) for text recognition.
+- Employs Named Entity Recognition (NER) to identify and capture entities.
+- Utilizes regular expressions for structured data extraction.
+- Integrates rule-based approaches for specific data patterns.
+- Offers a hybrid approach combining multiple methods for robust extraction.
+- Harnesses large language models (ChatGPT API) for context-aware data extraction.
+
+![Project Preview](https://github.com/kirudang/Automated_Text_Extraction/assets/91911269/86004f85-f431-49b7-8ad5-09f69776e09d)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/OCR-white)](#) [![](https://img.shields.io/badge/NER-white)](#) [![](https://img.shields.io/badge/RegEx-white)](#) [![](https://img.shields.io/badge/Rule%20Based-white)](#) [![](https://img.shields.io/badge/ChatGPT-white?logo=OpenAI&labelColor=orange)](#)
+
+[View project on Github](https://github.com/kirudang/Automated_Text_Extraction/tree/main)
+
+Feel free to replace `yourusername/yourproject` with the actual URL of your project repository.
 ---
 ## 📘 Data Analysis and Business Intelligence
 ---
