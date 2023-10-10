@@ -23,6 +23,7 @@ This  project is designed to **identify unsafe holes on construction sites**, he
 [![NVIDIA](https://img.shields.io/badge/NVIDIA-white?logo=NVIDIA)](#)
 
 [View project on Github](https://github.com/kirudang/Construction_safety)
+
 [View project on Google Colab](https://drive.google.com/file/d/18ZjitWpxPUkNBdOznrzS8QCO-e43dVic/view?usp=sharing)
 
 ---
