@@ -89,6 +89,23 @@ This project introduces an innovative solution for automating text data extracti
 [View project on Github](https://github.com/kirudang/Automated_Text_Extraction/tree/main)
 
 ---
+### ✨ Explainable Machine Learning - Understand the Black-Box
+
+Interpretable Machine Learning (ML) is a critical aspect of advancing the use of machine learning in various fields. Many black box models hinder ML's adoption due to their lack of transparency and interpretability. The Jupyter Notebook in this repository includes the following sections:
+- **PDP for Bike Rent Data**: Demonstrates how to use Partial Dependence Plots for interpreting a machine learning model using bike rental data. It explains how the model works and how to interpret PDP plots.
+![PDP](https://github.com/kirudang/Explainable_ML/assets/91911269/ecd4eec2-8939-4e67-b756-4db5cfb7d231)
+- **LIME for Image Classification**: Illustrates the use of LIME to explain an image classification model. It provides insights into the model's predictions and how to interpret LIME plots.
+- **SHAP for Breast Cancer Classification**: Shows how to use SHAP values for interpreting a breast cancer classification model. It describes the model's behavior and how to interpret SHAP plots.
+<img width="925" alt="Force" src="https://github.com/kirudang/Explainable_ML/assets/91911269/4e5ec7d5-0f49-4ffd-bc1a-9a62c7088646">
+- **Comparative Analysis**: Offers a comparative analysis of PDP, LIME, and SHAP, summarizing the strengths and weaknesses of each method for model interpretability.
+
+[![Python](https://img.shields.io/badge/Python-white?logo=Python)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit-learn-white?logo=scikit-learn&labelColor=F7931E)](https://scikit-learn.org/stable/)
+[![Lime](https://img.shields.io/badge/Lime-white?logo=Lime&labelColor=000)](https://github.com/marcotcr/lime)
+[![Shap](https://img.shields.io/badge/Shap-white?logo=Shap&labelColor=0033D4)](https://github.com/slundberg/shap)
+
+[View project on Github](https://github.com/kirudang/Explainable_ML/tree/main)
+---
 ## 📘 MLOPs
 ---
 ### ✨ Salary Prediction Application
