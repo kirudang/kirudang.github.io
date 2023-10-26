@@ -27,6 +27,25 @@ This  project is designed to **identify unsafe holes on construction sites**, he
 [View project on Google Colab](https://drive.google.com/file/d/18ZjitWpxPUkNBdOznrzS8QCO-e43dVic/view?usp=sharing)
 
 ---
+### ✨ Customer Service Chatbot with In-Context Learning
+
+This project is a deep dive into the world of AI-driven customer service chatbots, enhanced by the power of in-context learning. We leverage the Llama Index and Language Model API to create a chatbot that understands and responds to customer inquiries effectively, transforming the way businesses provide support.
+
+<video src="https://github.com/kirudang/kirudang.github.io/assets/91911269/4063c1a5-7bf3-41c9-bdf9-7ef5f5d9de3e" controls style="width: 640px; height: 360px;">
+</video>
+
+🔍 **Project Highlights:**
+- Utilizes Llama Index for efficient token management and in-context learning.
+- Extracts relevant customer support conversations from Twitter using a Kaggle dataset.
+- Trains a chatbot using language models like ChatGPT and Hugging Face.
+- Creates a user-friendly interface with Gradio for easy customer interaction.
+- Revolutionizes customer support by combining AI and real customer interactions.
+  
+[![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)\\](#) [![](https://img.shields.io/badge/ChatGPT-1572B6?logo=chatgpt&logoColor=white)\\](#) [![](https://img.shields.io/badge/Hugging%20Face-white?logo=hugging-face)\\](#) [![](https://img.shields.io/badge/Llama%20Index-343A40?logo=llama&logoColor=white)\\](#) [![](https://img.shields.io/badge/Gradio-EB5757?logo=gradio&logoColor=white)\\](#)
+
+[View project on Github](https://github.com/kirudang/Customer_service_chatbot)
+
+---
 ## 📘 Data Science and Machine Learning
 ---
 ### ✨ Dune Series Network Analysis and Community Detection
