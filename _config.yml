@@ -19,14 +19,14 @@ logo: "/images/small logo.png?raw=true"
 description: > 
    💻 Experienced ML Engineer. Previously contributed to projects at Hitachi Vantara, Definity Insurance, Northeastern University, and Alibaba E-commerce.
    <br><br>
-   🎓 PhD studnet in AI, specializing in LLMs, based in New York, USA.
-   
-   🎓 Valedictorian of Master in DS, Machine Intelligence (Fall 2021 Cohort) with an overall GPA of 4.0. 
+   🏫 PhD student in AI, specializing in LLMs, based in New York, USA. 
+   🎓 Valedictorian of Master in DS, Machine Intelligence (Fall 2021 Cohort) with an overall GPA of 4.0.
    <br><br>
-   Connect with me on [LinkedIn](https://www.linkedin.com/in/kirudang/) to explore opportunities.
+   <a href="https://www.linkedin.com/in/kirudang/">View My LinkedIn Profile</a> 
    <br><br>
-   Discover insights and musings on AI and ML on my [Medium Blog](https://medium.com/@kirudang).
+   <a href="https://medium.com/@kirudang">View My Medium Blog</a>
    <br><br>
-   Explore my code and projects on [GitHub](https://github.com/kirudang).
+   <a href="https://github.com/kirudang">Return my Github</a> 
 theme: jekyll-theme-minimal
+
 
