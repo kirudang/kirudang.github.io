@@ -1,26 +1,26 @@
 {
   "blog/index.qmd": {
-    "index.html": "d771839c"
+    "index.html": "0ebd9f74"
   },
   "index.qmd": {
-    "index.html": "303b99d9"
+    "index.html": "c8986d88"
   },
   "research.qmd": {
-    "research.html": "f7a53574"
+    "research.html": "f8e65812"
   },
   "projects.qmd": {
-    "projects.html": "76c3a39d"
+    "projects.html": "d3acd906"
   },
   "blog.qmd": {
-    "blog.html": "b21c1177"
+    "blog.html": "76e004b5"
   },
   "professional.qmd": {
-    "professional.html": "1a69568b"
+    "professional.html": "ad687ecc"
   },
   "projects copy.qmd": {
-    "projects copy.html": "dc16d1d6"
+    "projects copy.html": "bbe81e20"
   },
   "academic.qmd": {
-    "academic.html": "cb2373ad"
+    "academic.html": "3a0c3484"
   }
 }
