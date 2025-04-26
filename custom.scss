@@ -1,0 +1,104 @@
+/*-- scss:defaults --*/
+
+$primary-color: #3366cc;
+$secondary-color: #2c3e50;
+$text-color: #333;
+$background-color: #ffffff;
+$link-color: $primary-color;
+
+/*-- scss:rules --*/
+
+/* General Styles */
+body {
+  font-family: 'Inter', sans-serif;
+  color: $text-color;
+  line-height: 1.6;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: $secondary-color;
+  font-weight: 600;
+  margin-top: 1.5em;
+}
+
+h1 {
+  font-size: 2.5em;
+  border-bottom: 2px solid $primary-color;
+  padding-bottom: 0.3em;
+}
+
+/* Links */
+a {
+  color: $link-color;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  
+  &:hover {
+    color: darken($link-color, 15%);
+    text-decoration: underline;
+  }
+}
+
+/* Grid Layout */
+.grid {
+  margin: 2em 0;
+}
+
+.g-col-4, .g-col-8 {
+  padding: 1em;
+}
+
+/* Profile Image */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Navigation */
+.navbar {
+  background-color: $background-color;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
+  .nav-link {
+    font-weight: 500;
+    padding: 0.5em 1em;
+    
+    &:hover {
+      color: $primary-color;
+    }
+  }
+}
+
+/* Lists */
+ul, ol {
+  padding-left: 1.5em;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+/* Code Blocks */
+pre {
+  background-color: #f8f9fa;
+  border-radius: 6px;
+  padding: 1em;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .grid {
+    display: block;
+  }
+  
+  .g-col-4, .g-col-8 {
+    width: 100%;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+} 

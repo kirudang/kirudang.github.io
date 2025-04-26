@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: .
+
+website:
+  title: Kieu Dang
+  favicon: logo.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: academic.qmd
+        text: Academic Experience
+      - href: professional.qmd
+        text: Professional Experience
+      - href: projects.qmd
+        text: Projects
+      - href: blog.qmd
+        text: Blog
+      - href: cv.pdf
+        text: CV
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+    code-fold: true
+    code-tools: true
+    highlight-style: github
+    html-math-method: katex
+    fontfamily: sans-serif
+    fontsize: 16px
+    linkcolor: "#3366cc"
+    mainfont: "Inter"
+    monofont: "Fira Code"
+    header-includes:
+      - |
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
+
+editor:
+  render-on-save: true

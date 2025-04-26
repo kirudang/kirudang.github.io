@@ -1,0 +1,65 @@
+---
+# title: "Kieu Dang"
+format: html
+---
+
+## About me
+
+<span style="font-size: 28px; color: #3366cc;"><strong> Welcome to my profile! </strong></span> 
+
+::: {.grid}
+::: {.g-col-4}
+![](images/picofme.png)
+:::
+
+::: {.g-col-8}
+Hello, I'm <span style="font-size: 28px; color: #3366cc;"><strong>Kieu Dang</strong></span> <br>
+🎓 PhD Student in Cybersecurity with a focus on LLLs.<br>
+🏫 State University of New York at Albany (SUNY Albany)<br>
+📍 New York, USA <br>
+🔬 **Research Interests**:  
+- Trustworthy Machine Learning and AI  
+- Privacy-Preserving Machine Learning  
+- Adversarial Robustness and Watermarking
+
+:::
+:::
+
+## Education
+
+🎓 **PhD Student in Cybersecurity**, State University of New York at Albany, USA (Aug 2024 – Present)  <br>
+  - Cumulative GPA: 4.00/4.00. <br>
+  - Research Focus: Trustworthy Machine Learning and AI through the lens of Privacy and Security.
+
+🎓 **Master in Analytics, Applied Machine Intelligence**, Northeastern University, USA (Aug 2021 – Jul 2023) <br>
+  - Valedictorian of Fall 2021 cohort. <br>
+  - Cumulative GPA: 4.00/4.00.  <br>
+  - Thesis: *Improving Safety through the Integration of Multi-sensor Fusion and Deep Learning-based Object Detection*
+
+## Research Overview
+
+My research explores the intersection of **Trustworthy AI** and **Privacy-Preserving Technologies**, aiming to develop mechanisms that enhance the **security**, **privacy**, and **robustness** of large language models. I collaborate with industry and academic partners to deploy and evaluate adversarial robustness, watermarking techniques, and privacy-preserving frameworks in real-world AI systems.
+
+## Recent Updates
+
+- 🏆 Received **Second Prize** for Best Poster at NTIR 2025.  
+- 📜 Filed a **non-provisional US patent** for *SafeSeal: Certifiable Watermarking for LLM Deployments* (April 2025).  
+- ✍️ First-authored and submitted papers on **certifiable watermarking** and **LLM security** to top security conferences (ACM CCS, IEEE S&P, ECML PKDD).  
+- 🚀 Mentoring undergraduate students on **Explainable AI and LLM Alignment** at SUNY Albany.
+
+## Quick Links
+
+- 🔬 [Research](/research/index.html)
+- 🎓 [Academic Experience](/academic.html)
+- 💼 [Professional Experience](/professional.html)
+- 🛠️ [Practical Projects](/projects.html)
+- 📝 [Blog](/blog/index.html)
+- 📄 [CV](/cv.pdf)
+
+## Contact  
+- 📧 [vdang@albany.edu](mailto:vdang@albany.edu)  
+- 📰 [Medium](https://medium.com/@kirudang)  
+- 🧑‍💻 [GitHub](https://kirudang.github.io/)  
+- 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=QOjXeq4AAAAJ)
+
+---

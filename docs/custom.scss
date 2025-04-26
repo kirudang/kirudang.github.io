@@ -1,0 +1,180 @@
+/*-- scss:defaults --*/
+
+// Colors
+$primary: #3366cc;
+$secondary: #2c3e50;
+$body-color: #333;
+$body-bg: #ffffff;
+$link-color: $primary;
+
+// Typography
+$font-family-sans-serif: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-family-monospace: "Fira Code", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+
+// Spacing
+$spacer: 1rem;
+
+/*-- scss:rules --*/
+
+// General Styles
+body {
+  font-family: $font-family-sans-serif;
+  color: $body-color;
+  line-height: 1.6;
+  background-color: $body-bg;
+}
+
+// Headings
+h1, h2, h3, h4, h5, h6 {
+  color: $secondary;
+  font-weight: 600;
+  margin-top: 1.5em;
+}
+
+h1 {
+  font-size: 2.5em;
+  border-bottom: 2px solid $primary;
+  padding-bottom: 0.3em;
+  margin-bottom: 1em;
+}
+
+// Links
+a {
+  color: $link-color;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    color: darken($link-color, 15%);
+    text-decoration: underline;
+  }
+}
+
+// Grid Layout
+.grid {
+  margin: 2em 0;
+  display: grid;
+  gap: 2em;
+}
+
+.g-col-4, .g-col-8 {
+  padding: 1em;
+}
+
+// Profile Image
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  
+  &:hover {
+    transform: scale(1.02);
+  }
+}
+
+// Navigation
+.navbar {
+  background-color: $body-bg;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 1rem 0;
+  
+  .nav-link {
+    font-weight: 500;
+    padding: 0.5em 1em;
+    color: $secondary;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      color: $primary;
+      background-color: rgba($primary, 0.1);
+      border-radius: 4px;
+    }
+  }
+}
+
+// Lists
+ul, ol {
+  padding-left: 1.5em;
+}
+
+li {
+  margin-bottom: 0.5em;
+  position: relative;
+}
+
+// Code Blocks
+pre {
+  background-color: #f8f9fa;
+  border-radius: 6px;
+  padding: 1em;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+// Responsive Design
+@media (max-width: 768px) {
+  .grid {
+    display: block;
+  }
+  
+  .g-col-4, .g-col-8 {
+    width: 100%;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  .navbar {
+    padding: 0.5rem 0;
+  }
+}
+
+// Custom Classes
+.emoji {
+  font-size: 1.2em;
+  margin-right: 0.5em;
+}
+
+.contact-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  margin-top: 1em;
+  
+  a {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.5em 1em;
+    background-color: rgba($primary, 0.1);
+    border-radius: 4px;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      background-color: rgba($primary, 0.2);
+      transform: translateY(-2px);
+    }
+  }
+}
+
+.quick-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1em;
+  margin-top: 2em;
+  
+  a {
+    display: flex;
+    align-items: center;
+    padding: 1em;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      background-color: #e0e8f0;
+      transform: translateY(-2px);
+    }
+  }
+} 

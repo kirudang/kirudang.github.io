@@ -1,0 +1,485 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "📝 Blog and Professional Channels",
+    "section": "",
+    "text": "Welcome! Here you can find my professional writings, research updates, and project showcases across different platforms:\n\n📰 Medium — Articles and insights on data science, AI, and technology.  🧑‍💻 GitHub — Code repositories, project demos, and practical implementations.  🎓 Google Scholar — Academic publications and research contributions.  🔗 LinkedIn — Connect and follow my professional updates. \nThank you for your time!"
+  },
+  {
+    "objectID": "blog.html#recent-posts",
+    "href": "blog.html#recent-posts",
+    "title": "Blog",
+    "section": "",
+    "text": "Date: January 1, 2024\nA brief description of the blog post content.\n\n\n\nDate: December 15, 2023\nA brief description of the blog post content."
+  },
+  {
+    "objectID": "blog.html#categories",
+    "href": "blog.html#categories",
+    "title": "Blog",
+    "section": "",
+    "text": "Research Updates\nTutorials\nProject Updates\nGeneral Thoughts"
+  },
+  {
+    "objectID": "blog.html#subscribe",
+    "href": "blog.html#subscribe",
+    "title": "Blog",
+    "section": "",
+    "text": "Stay updated with my latest posts by following me on Twitter or subscribing to the RSS feed."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Here you’ll find my thoughts, tutorials, and updates about my work.\n\n\n\n\n\nDate: January 1, 2024\nA brief description of the blog post content.\n\n\n\nDate: December 15, 2023\nA brief description of the blog post content.\n\n\n\n\n\n\nResearch Updates\nTutorials\nProject Updates\nGeneral Thoughts\n\n\n\n\nStay updated with my latest posts by following me on Twitter or subscribing to the RSS feed."
+  },
+  {
+    "objectID": "blog/index.html#recent-posts",
+    "href": "blog/index.html#recent-posts",
+    "title": "Blog",
+    "section": "",
+    "text": "Date: January 1, 2024\nA brief description of the blog post content.\n\n\n\nDate: December 15, 2023\nA brief description of the blog post content."
+  },
+  {
+    "objectID": "blog/index.html#categories",
+    "href": "blog/index.html#categories",
+    "title": "Blog",
+    "section": "",
+    "text": "Research Updates\nTutorials\nProject Updates\nGeneral Thoughts"
+  },
+  {
+    "objectID": "blog/index.html#subscribe",
+    "href": "blog/index.html#subscribe",
+    "title": "Blog",
+    "section": "",
+    "text": "Stay updated with my latest posts by following me on Twitter or subscribing to the RSS feed."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "🚀 Practical Projects",
+    "section": "",
+    "text": "This project is designed to identify unsafe holes on construction sites, helping to ensure the well-being of workers and the integrity of job sites. When combined with a Personal Protective Equipment (PPE) detection model, it forms a robust safety monitoring system deployed on Jetson-based edge inference systems.\n🛠️ Workflow and Tech Stack: To train this model, I adopted an Iterative Training Process. Data preparation and deployment were accomplished with Roboflow, while model customization took place in Google Colab.\n🔬 Techniques and Strategies: Transfer learning, Hyperparameter tuning, Multiple Deep Learning Algorithms to train and compare (YOLO, DETR, RCNN, COCO, UNet), Iterative training and Model Refinement.\n\n\n\n\n\n     \n\n\nView project on Github | View project on Google Colab\n\n\n\n\n\n\n\n\nThis project is a deep dive into the world of AI-driven customer service chatbots, enhanced by the power of in-context learning. We leverage the Llama Index and Language Model API to create a chatbot that understands and responds to customer inquiries effectively, transforming the way businesses provide support.\n\n\n\n\n🔍 Project Highlights: - Utilizes Llama Index for efficient token management and in-context learning - Extracts relevant customer support conversations from Twitter using a Kaggle dataset - Trains a chatbot using language models like ChatGPT and Hugging Face - Creates a user-friendly interface with Gradio for easy customer interaction - Revolutionizes customer support by combining AI and real customer interactions\n\n   \n\n\nView project on Github"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "Date: 2023\nDescription: Brief description of the project, its goals, and outcomes.\nTechnologies: List of technologies used\nLink: Project Repository"
+  },
+  {
+    "objectID": "projects.html#project-2",
+    "href": "projects.html#project-2",
+    "title": "Projects",
+    "section": "",
+    "text": "Date: 2023\nDescription: Brief description of the project, its goals, and outcomes.\nTechnologies: List of technologies used\nLink: Project Repository"
+  },
+  {
+    "objectID": "projects.html#ongoing-projects",
+    "href": "projects.html#ongoing-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Current Project 1: Description of your current work\nCurrent Project 2: Description of your current work"
+  },
+  {
+    "objectID": "projects.html#collaborations",
+    "href": "projects.html#collaborations",
+    "title": "Projects",
+    "section": "",
+    "text": "List any collaborative projects or research initiatives you’re involved in."
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "Interest 1\nInterest 2\nInterest 3\n\n\n\n\n\n\n\nAuthor, A., & Author, B. (Year). Title. Journal Name, Volume(Issue), pages.\n\n\n\n\n\nAuthor, A., & Author, B. (Year). Title. In Conference Name (pp. pages).\n\n\n\n\n\n\nProject 1: Description\nProject 2: Description\n\n\n\n\nList of current research collaborations and partners."
+  },
+  {
+    "objectID": "research/index.html#research-interests",
+    "href": "research/index.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "Interest 1\nInterest 2\nInterest 3"
+  },
+  {
+    "objectID": "research/index.html#publications",
+    "href": "research/index.html#publications",
+    "title": "Research",
+    "section": "",
+    "text": "Author, A., & Author, B. (Year). Title. Journal Name, Volume(Issue), pages.\n\n\n\n\n\nAuthor, A., & Author, B. (Year). Title. In Conference Name (pp. pages)."
+  },
+  {
+    "objectID": "research/index.html#current-research-projects",
+    "href": "research/index.html#current-research-projects",
+    "title": "Research",
+    "section": "",
+    "text": "Project 1: Description\nProject 2: Description"
+  },
+  {
+    "objectID": "research/index.html#research-collaborations",
+    "href": "research/index.html#research-collaborations",
+    "title": "Research",
+    "section": "",
+    "text": "List of current research collaborations and partners."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: your.email@example.com\nLocation: Your Location\nOffice: Your Office Address\n\n\n\n\nTwitter\nLinkedIn\nGitHub\nGoogle Scholar\n\n\n\n\nBy Appointment: Please email to schedule a meeting\n\n\n\nI’m always interested in new collaborations and research opportunities. Feel free to reach out if you’d like to work together!\n\n\n\n\nCV\nResearch\nProjects"
+  },
+  {
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: your.email@example.com\nLocation: Your Location\nOffice: Your Office Address"
+  },
+  {
+    "objectID": "contact.html#social-media",
+    "href": "contact.html#social-media",
+    "title": "Contact",
+    "section": "",
+    "text": "Twitter\nLinkedIn\nGitHub\nGoogle Scholar"
+  },
+  {
+    "objectID": "contact.html#office-hours",
+    "href": "contact.html#office-hours",
+    "title": "Contact",
+    "section": "",
+    "text": "By Appointment: Please email to schedule a meeting"
+  },
+  {
+    "objectID": "contact.html#collaboration",
+    "href": "contact.html#collaboration",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m always interested in new collaborations and research opportunities. Feel free to reach out if you’d like to work together!"
+  },
+  {
+    "objectID": "contact.html#quick-links",
+    "href": "contact.html#quick-links",
+    "title": "Contact",
+    "section": "",
+    "text": "CV\nResearch\nProjects"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "",
+    "section": "About me",
+    "text": "About me\n Welcome to my profile! \n\n\n\n\n\nHello, I’m Kieu Dang  🎓 PhD Student in Cybersecurity with a focus on LLLs. 🏫 State University of New York at Albany (SUNY Albany) 📍 New York, USA  🔬 Research Interests:\n- Trustworthy Machine Learning and AI\n- Privacy-Preserving Machine Learning\n- Adversarial Robustness and Watermarking"
+  },
+  {
+    "objectID": "index.html#latest-updates",
+    "href": "index.html#latest-updates",
+    "title": "Home",
+    "section": "",
+    "text": "Recent achievements\nCurrent projects\nUpcoming events"
+  },
+  {
+    "objectID": "index.html#featured-content",
+    "href": "index.html#featured-content",
+    "title": "Home",
+    "section": "",
+    "text": "Brief description of your research interests and current work.\n\n\n\nHighlight of your key projects and contributions."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "",
+    "section": "Contact",
+    "text": "Contact\n\n📧 vdang@albany.edu\n\n📰 Medium\n\n🧑‍💻 GitHub\n\n🎓 Google Scholar"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Simone",
+    "section": "",
+    "text": "A longer paragraph about me and my interests and anything else I like to do."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Simone",
+    "section": "Education",
+    "text": "Education\nWhere I studied"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Simone",
+    "section": "Experience",
+    "text": "Experience\nWhat I’ve done"
+  },
+  {
+    "objectID": "professional.html",
+    "href": "professional.html",
+    "title": "💼 Professional Experience",
+    "section": "",
+    "text": "Machine Learning Content Engineer (Freelancer – Partner Program) Nov 2022 – Present 🏢 A Medium Corporation, CA, USA 📝 Translate complex machine learning topics, especially in NLP, into accessible and insightful content for a diverse audience.\n\n\nSenior Data Scientist (Remote Full Time) Oct 2023 – May 2024 🏢 Hitachi Vantara Corporation, CA, USA - 🤖 Applied deep learning to deploy predictive models across healthcare, retail, manufacturing, and finance. - 🧠 Enhanced financial text analytics using advanced NLP techniques. - 📈 Built causal time series models to improve retail supply chain forecasting.\n\n\nData Scientist and Modeling (Co-op) Jan 2023 – May 2023 🏢 Definity Financial, ON, Canada - 🖼️ Prepared image, text, and tabular data on car accidents for predictive modeling. - 🚀 Built and deployed four models for underwriting, actuary, and claims with reproducible pipelines.\n\n\nSenior Manager, Category Management Sep 2020 – Aug 2021 🏢 Alibaba Group – Lazada E-commerce, HCMC, Vietnam - 🔍 Collaborated with the Data Science team to evaluate search exposure and sales drivers using text mining and A/B testing techniques. - 📊 Conducted hypothesis-driven ad-hoc analysis to address business-critical operational queries."
+  },
+  {
+    "objectID": "professional.html#work-experience",
+    "href": "professional.html#work-experience",
+    "title": "Professional Experience",
+    "section": "",
+    "text": "Company/Organization: [Name]\nDuration: [Start Date] - [End Date]\nLocation: [Location]\n- Key responsibilities and achievements - Projects worked on - Technologies/skills used\n\n\n\nCompany/Organization: [Name]\nDuration: [Start Date] - [End Date]\nLocation: [Location]\n- Key responsibilities and achievements - Projects worked on - Technologies/skills used"
+  },
+  {
+    "objectID": "professional.html#professional-skills",
+    "href": "professional.html#professional-skills",
+    "title": "Professional Experience",
+    "section": "",
+    "text": "[Skill Category]: [List of specific skills]\n[Skill Category]: [List of specific skills]\n\n\n\n\n\n[Skill 1]\n[Skill 2]\n[Skill 3]"
+  },
+  {
+    "objectID": "professional.html#certifications",
+    "href": "professional.html#certifications",
+    "title": "Professional Experience",
+    "section": "",
+    "text": "[Certification Name], [Issuing Organization], [Year]\n[Certification Name], [Issuing Organization], [Year]"
+  },
+  {
+    "objectID": "professional.html#professional-memberships",
+    "href": "professional.html#professional-memberships",
+    "title": "Professional Experience",
+    "section": "",
+    "text": "[Organization Name], [Role], [Duration]\n[Organization Name], [Role], [Duration]"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "",
+    "section": "Education",
+    "text": "Education\n🎓 PhD Student in Cybersecurity, State University of New York at Albany, USA (Aug 2024 – Present)  - Cumulative GPA: 4.00/4.00.  - Research Focus: Trustworthy Machine Learning and AI through the lens of Privacy and Security.\n🎓 Master in Analytics, Applied Machine Intelligence, Northeastern University, USA (Aug 2021 – Jul 2023)  - Valedictorian of Fall 2021 cohort.  - Cumulative GPA: 4.00/4.00.  - Thesis: Improving Safety through the Integration of Multi-sensor Fusion and Deep Learning-based Object Detection"
+  },
+  {
+    "objectID": "index.html#research-overview",
+    "href": "index.html#research-overview",
+    "title": "",
+    "section": "Research Overview",
+    "text": "Research Overview\nMy research explores the intersection of Trustworthy AI and Privacy-Preserving Technologies, aiming to develop mechanisms that enhance the security, privacy, and robustness of large language models. I collaborate with industry and academic partners to deploy and evaluate adversarial robustness, watermarking techniques, and privacy-preserving frameworks in real-world AI systems."
+  },
+  {
+    "objectID": "index.html#recent-updates",
+    "href": "index.html#recent-updates",
+    "title": "",
+    "section": "Recent Updates",
+    "text": "Recent Updates\n\n🏆 Received Second Prize for Best Poster at NTIR 2025.\n\n📜 Filed a non-provisional US patent for SafeSeal: Certifiable Watermarking for LLM Deployments (April 2025).\n\n✍️ First-authored and submitted papers on certifiable watermarking and LLM security to top security conferences (ACM CCS, IEEE S&P, ECML PKDD).\n\n🚀 Mentoring undergraduate students on Explainable AI and LLM Alignment at SUNY Albany."
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "",
+    "section": "Quick Links",
+    "text": "Quick Links\n\n🔬 Research\n🎓 Academic Experience\n💼 Professional Experience\n🛠️ Practical Projects\n📝 Blog\n📄 CV"
+  },
+  {
+    "objectID": "academic.html",
+    "href": "academic.html",
+    "title": "🏫 Academic Experience",
+    "section": "",
+    "text": "🎓 Education\n\n\nPh.D. Student in Information Science Aug 2024 – Present 🏫 State University of New York at Albany, NY, USA 🔬 Research Topic: Trustworthy Machine Learning and AI through the Lens of Privacy and Security 📊 GPA: 4.00/4.00\n\n\nMaster in Analytics, Applied Machine Intelligence Aug 2021 – Jul 2023 🏫 Northeastern University, MA, USA 📝 Thesis: Improving Safety through the Integration of Multi-sensor Fusion and Deep Learning-based Object Detection 📊 GPA: 4.00/4.00\n\n\n\n\n👨‍🏫 Teaching & Student Mentorship Experience\n\n\nIntern Mentor – State University of New York at Albany Jan 2024 – Present 🤝 Mentored undergraduate interns on the project Transforming Large Language Model Alignment: Automating Reference Data Generation through Explainable AI.\n\n\nTeaching Assistant – Northeastern University Aug 2021 – Dec 2021 📚 Course: ALY 6010 - Introduction to Statistics and Probability\n\n\n\n\n🏆 Honors & Awards\n\n🥈 Second Prize, Best Poster at NTIR 2025 Apr 2025  🎓 Valedictorian, Master in Analytics, Northeastern University Jul 2023  🏅 Hackathon Winner – OCR and Language Model for Form Autofill, Definity Financial Feb 2023  🎯 Top 20 Finalist – VinUniversity Global Case Competition Dec 2021  💰 Merit-based Scholarship, Foreign Trade University 2013 & 2014  🌟 Talent Incubation Scholarship, Coca-Cola Vietnam & Thanh Nien News Nov 2013  🌍 Ambassador – Exchange Participant, AIESEC Indonesia Jun–Aug 2013 \n\n\n\n🤝 Professional Services\n\n🎪 Organizer committee, NTIR Conference - Where Innovation Meets Information 2025 April 2025  📖 Journal Reviewer, Journal of Combinatorial Optimization 2025 Jan–May 2025  📝 Conference Reviewer, Computational Data and Social Networks 2024 Oct–Dec 2024"
+  },
+  {
+    "objectID": "academic.html#education",
+    "href": "academic.html#education",
+    "title": "Academic Experience",
+    "section": "",
+    "text": "Institution: [University Name]\nYear: [Year]\nThesis/Dissertation: [Title]\nAdvisor: [Advisor Name]\n\n\n\nInstitution: [University Name]\nYear: [Year]\nThesis/Dissertation: [Title]\nAdvisor: [Advisor Name]"
+  },
+  {
+    "objectID": "academic.html#teaching-experience",
+    "href": "academic.html#teaching-experience",
+    "title": "Academic Experience",
+    "section": "",
+    "text": "Institution: [University Name]\nSemester: [Semester Year]\nRole: [Instructor/Teaching Assistant]\n- Description of responsibilities - Key achievements\n\n\n\nInstitution: [University Name]\nSemester: [Semester Year]\nRole: [Instructor/Teaching Assistant]\n- Description of responsibilities - Key achievements"
+  },
+  {
+    "objectID": "academic.html#academic-service",
+    "href": "academic.html#academic-service",
+    "title": "Academic Experience",
+    "section": "",
+    "text": "[Service Role], [Organization], [Year]\n[Service Role], [Organization], [Year]"
+  },
+  {
+    "objectID": "academic.html#academic-awards-honors",
+    "href": "academic.html#academic-awards-honors",
+    "title": "Academic Experience",
+    "section": "",
+    "text": "[Award Name], [Year]\n[Award Name], [Year]"
+  },
+  {
+    "objectID": "index.html#welcome-to-my-profile",
+    "href": "index.html#welcome-to-my-profile",
+    "title": "",
+    "section": "",
+    "text": "Profile Photo\n\n\n\n\nHello, I’m Kieu Dang  🎓 PhD Student in AI, Cybersecurity. 🏫 State University of New York at Albany (SUNY Albany) 📍 New York, USA\n\n\nI am a researcher passionate about building Trustworthy AI, specializing in privacy, security, and robustness in large language models (LLMs). My work focuses on advancing adversarial robustness, differential privacy, and watermarking techniques to ensure the reliable and ethical deployment of AI systems.\nResearch Interests:\n- Trustworthy Machine Learning and AI\n- Privacy-Preserving Machine Learning\n- Adversarial Robustness and Watermarking"
+  },
+  {
+    "objectID": "projects.html#deep-learning-and-ai",
+    "href": "projects.html#deep-learning-and-ai",
+    "title": "Projects",
+    "section": "",
+    "text": "This project is designed to identify unsafe holes on construction sites, helping to ensure the well-being of workers and the integrity of job sites. When combined with a Personal Protective Equipment (PPE) detection model, it forms a robust safety monitoring system deployed on Jetson-based edge inference systems.\n🛠️ Workflow and Tech Stack: To train this model, I adopted an Iterative Training Process. Data preparation and deployment were accomplished with Roboflow, while model customization took place in Google Colab.\n🔬 Techniques and Strategies: Transfer learning, Hyperparameter tunning, Multiple Deep Learning Algorithms to train and compare (YOLO, DETR, RCNN, COCO, UNet), Iterative training and Model Refinement.\n\n\n      \nView project on Github\nView project on Google Colab\n\n\n\nThis project is a deep dive into the world of AI-driven customer service chatbots, enhanced by the power of in-context learning. We leverage the Llama Index and Language Model API to create a chatbot that understands and responds to customer inquiries effectively, transforming the way businesses provide support.\n\n\n🔍 Project Highlights: - Utilizes Llama Index for efficient token management and in-context learning. - Extracts relevant customer support conversations from Twitter using a Kaggle dataset. - Trains a chatbot using language models like ChatGPT and Hugging Face. - Creates a user-friendly interface with Gradio for easy customer interaction. - Revolutionizes customer support by combining AI and real customer interactions.\n\\ \\ \\ \\ \\\nView project on Github"
+  },
+  {
+    "objectID": "projects.html#data-science-and-machine-learning",
+    "href": "projects.html#data-science-and-machine-learning",
+    "title": "Projects",
+    "section": "",
+    "text": "This project delves into the captivating “Dune” book series by Frank Herbert using advanced data analysis techniques. By harnessing natural language processing and network science, we uncover the intricate web of character relationships and communities within this iconic science fiction universe.\n🔍 Project Highlights: - Utilizes Named Entity Recognition (NER) to extract character and location names. - Constructs a character relationship graph using NetworkX. - Applies the Louvain Algorithm for community detection. - Evaluates community structure with modularity analysis and centrality measures.\n\n\n\nezgif com-video-to-gif\n\n\n    \nView project on Github\n\n\n\nThis application predicts the matching percentage of a candidate’s resume to a job posting. It utilizes the Doc2Vec model, which represents job descriptions and resumes as numerical vectors. Doc2Vec combines the Continuous Bag-of-Words (CBOW) and Skip-Gram techniques to efficiently compare and calculate similarity between textual documents. The trained model can be easily deployed and hosted online (Azure), providing a convenient solution for matching CVs with job postings.\nNote: The algorithm serves as the first step in a use-case scenario where a company receives multiple job applications for various job postings. The second step involves employing the modified Gale-Shapley algorithm to index candidates for each job and select the best match.\n\n     \nView code on Github\n\n\n\nThis project follows industry best practices to address time series problems and involves key steps such as checking for stationarity, data transformation, decomposing models into components, anomaly detection, white noise checking, identifying orders, and performance measurement. The goal is to provide accurate sales forecasts for Walmart superstore and facilitate data-driven decisions.\n\n      \nView code on Github\n\n\n\nThis project introduces an innovative solution for automating text data extraction and form filling, aiming to streamline data processing in the digital age. Leveraging a combination of OCR, natural language processing, and rule-based approaches, it offers an efficient way to extract information from unstructured text and populate forms accurately, saving time and reducing errors.\n🔍 Project Highlights: - Incorporates Optical Character Recognition (OCR) for text recognition. - Employs Named Entity Recognition (NER) to identify and capture entities. - Utilizes regular expressions for structured data extraction. - Integrates rule-based approaches for specific data patterns. - Offers a hybrid approach combining multiple methods for robust extraction. - Harnesses large language models (ChatGPT API) for context-aware data extraction.\n\n\n\nProject Preview\n\n\n     \nView project on Github\n\n\n\nInterpretable Machine Learning (ML) is a critical aspect of advancing the use of machine learning in various fields. Many black box models hinder ML’s adoption due to their lack of transparency and interpretability. The Jupyter Notebook in this repository includes the following sections:\n\nPDP for Bike Rent Data: Demonstrates how to use Partial Dependence Plots for interpreting a machine learning model using bike rental data. It explains how the model works and how to interpret PDP plots.\n\n\n\n\nPDP\n\n\n\nLIME for Image Classification: Illustrates the use of LIME to explain an image classification model. It provides insights into the model’s predictions and how to interpret LIME plots.\nSHAP for Breast Cancer Classification: Shows how to use SHAP values for interpreting a breast cancer classification model. It describes the model’s behavior and how to interpret SHAP plots.\n\n\n\nComparative Analysis: Offers a comparative analysis of PDP, LIME, and SHAP, summarizing the strengths and weaknesses of each method for model interpretability.\n\n   \nView project on Github"
+  },
+  {
+    "objectID": "projects.html#mlops",
+    "href": "projects.html#mlops",
+    "title": "Projects",
+    "section": "",
+    "text": "This application predicts the salary of software engineers based on key pieces of information. It features two sections: a prediction page for salary prediction and an exploration page for EDA insights from the dataset. The predictions are generated using an XGBoost model, while the web app is built on Streamlit framework. To ensure the reproducibility, virtual environments are utilized on local hosts and contained by Docker. This app is deployed on GCP as well. A video guide on how to use the application is also available.\n\n\n     \nView code on Github"
+  },
+  {
+    "objectID": "projects.html#data-analysis-and-bi",
+    "href": "projects.html#data-analysis-and-bi",
+    "title": "Projects",
+    "section": "",
+    "text": "Power BI dashboard from SQL Server &gt; Power Query &gt; visualization.\n\n\nView on GitHub\n\n\n\n\nPanel + Hvplot + GeoPandas dashboard exploring CO2 data interactively.\n\n\nView on GitHub"
+  },
+  {
+    "objectID": "projects.html#welcome-to-my-portfolio",
+    "href": "projects.html#welcome-to-my-portfolio",
+    "title": "Projects",
+    "section": "",
+    "text": "Hello! I’m Kiel, and this page showcases some of my favorite personal projects across AI, data science, MLOps, and BI.\nIf you want to connect: - 📧 dang.v@northeastern.edu - 🌐 LinkedIn\nMy full CV\nThanks for visiting!\nKiel Dang"
+  },
+  {
+    "objectID": "projects.html#data-analysis-and-business-intelligence",
+    "href": "projects.html#data-analysis-and-business-intelligence",
+    "title": "Projects",
+    "section": "",
+    "text": "This project showcases the creation of an interactive Ecommerce Dashboard for Walmart using Power BI. The goal was to analyze and visualize key performance indicators (KPIs) to gain insights into sales, revenue, customer behavior, and more. The project followed a structured approach, encompassing defining KPIs, working with raw data in SQL Server for efficient manipulation, building SQL queries for validation, connecting Power BI for visualization, and utilizing Power Query for data cleaning. By incorporating calculated measures and time intelligence functions, the dashboard provides a comprehensive overview of Walmart’s ecommerce operations. The project follows a standard pipeline in BI and DA, starting from database to transformation and visualization.\n\n\n  \nView code on Github\n\n\n\nThis interactive dashboard project empowers users to explore and visualize carbon dioxide (CO2) emissions data from Our World in Data. It leverages cutting-edge Python libraries, including Panel, Hvplot, and GeoPandas, to create an intuitive and informative platform for analyzing CO2 emissions worldwide. The dashboard enables users to filter emissions data by year and country, compare emissions trends through scatterplots, and visualize geographical variations on a map. It serves as a valuable tool for gaining insights into the primary driver of global climate change and fostering data-driven discussions around emissions reduction.\n\n\n   \nView code on Github"
+  },
+  {
+    "objectID": "projects.html#i.-deep-learning-and-ai",
+    "href": "projects.html#i.-deep-learning-and-ai",
+    "title": "🚀 Practical Projects",
+    "section": "",
+    "text": "This project is designed to identify unsafe holes on construction sites, helping to ensure the well-being of workers and the integrity of job sites. When combined with a Personal Protective Equipment (PPE) detection model, it forms a robust safety monitoring system deployed on Jetson-based edge inference systems.\n🛠️ Workflow and Tech Stack: To train this model, I adopted an Iterative Training Process. Data preparation and deployment were accomplished with Roboflow, while model customization took place in Google Colab.\n🔬 Techniques and Strategies: Transfer learning, Hyperparameter tuning, Multiple Deep Learning Algorithms to train and compare (YOLO, DETR, RCNN, COCO, UNet), Iterative training and Model Refinement.\n\n\n\n\n\n     \n\n\nView project on Github | View project on Google Colab\n\n\n\n\n\n\n\n\nThis project is a deep dive into the world of AI-driven customer service chatbots, enhanced by the power of in-context learning. We leverage the Llama Index and Language Model API to create a chatbot that understands and responds to customer inquiries effectively, transforming the way businesses provide support.\n\n\n\n\n🔍 Project Highlights: - Utilizes Llama Index for efficient token management and in-context learning - Extracts relevant customer support conversations from Twitter using a Kaggle dataset - Trains a chatbot using language models like ChatGPT and Hugging Face - Creates a user-friendly interface with Gradio for easy customer interaction - Revolutionizes customer support by combining AI and real customer interactions\n\n   \n\n\nView project on Github"
+  },
+  {
+    "objectID": "projects.html#ii.-data-science-and-machine-learning",
+    "href": "projects.html#ii.-data-science-and-machine-learning",
+    "title": "🚀 Practical Projects",
+    "section": "📘 II. Data Science and Machine Learning",
+    "text": "📘 II. Data Science and Machine Learning\n\n✨ Dune Series Network Analysis and Community Detection\n\n\nThis project delves into the captivating “Dune” book series by Frank Herbert using advanced data analysis techniques. By harnessing natural language processing and network science, we uncover the intricate web of character relationships and communities within this iconic science fiction universe.\n🔍 Project Highlights: - Utilizes Named Entity Recognition (NER) to extract character and location names - Constructs a character relationship graph using NetworkX - Applies the Louvain Algorithm for community detection - Evaluates community structure with modularity analysis and centrality measures\n\n\n\n\nDune Network Analysis\n\n\n\n\n  \n\n\nView project on Github\n\n\n\n\n\n✨ CV and Job Matching\n\n\nThis application predicts the matching percentage of a candidate’s resume to a job posting. It utilizes the Doc2Vec model, which represents job descriptions and resumes as numerical vectors. Doc2Vec combines the Continuous Bag-of-Words (CBOW) and Skip-Gram techniques to efficiently compare and calculate similarity between textual documents.\nNote: The algorithm serves as the first step in a use-case scenario where a company receives multiple job applications for various job postings. The second step involves employing the modified Gale-Shapley algorithm to index candidates for each job and select the best match.\n\n\n\n\n  \n\n\nView code on Github\n\n\n\n\n\n✨ Sales forecasting using SARIMAX\n\n\nThis project follows industry best practices to address time series problems and involves key steps such as checking for stationarity, data transformation, decomposing models into components, anomaly detection, white noise checking, identifying orders, and performance measurement. The goal is to provide accurate sales forecasts for Walmart superstore and facilitate data-driven decisions.\n\n\n\n\n   \n\n\nView code on Github\n\n\n\n\n\n✨ Automated Text Data Extraction and Form Filling System\n\n\nThis project introduces an innovative solution for automating text data extraction and form filling, aiming to streamline data processing in the digital age. Leveraging a combination of OCR, natural language processing, and rule-based approaches, it offers an efficient way to extract information from unstructured text and populate forms accurately, saving time and reducing errors.\n🔍 Project Highlights: - Incorporates Optical Character Recognition (OCR) for text recognition - Employs Named Entity Recognition (NER) to identify and capture entities - Utilizes regular expressions for structured data extraction - Integrates rule-based approaches for specific data patterns - Offers a hybrid approach combining multiple methods for robust extraction - Harnesses large language models (ChatGPT API) for context-aware data extraction\n\n\n\n\nProject Preview\n\n\n\n\n   \n\n\nView project on Github\n\n\n\n\n\n✨ Explainable Machine Learning - Understand the Black-Box\n\n\nInterpretable Machine Learning (ML) is a critical aspect of advancing the use of machine learning in various fields. Many black box models hinder ML’s adoption due to their lack of transparency and interpretability.\n🔍 Project Components: - PDP for Bike Rent Data: Demonstrates how to use Partial Dependence Plots for interpreting a machine learning model using bike rental data - LIME for Image Classification: Illustrates the use of LIME to explain an image classification model - SHAP for Breast Cancer Classification: Shows how to use SHAP values for interpreting a breast cancer classification model - Comparative Analysis: Offers a comparative analysis of PDP, LIME, and SHAP\n\n\n\n\nPDP\n\n\n\n\n   \n\n\nView project on Github"
+  },
+  {
+    "objectID": "projects.html#iii.-mlops",
+    "href": "projects.html#iii.-mlops",
+    "title": "🚀 Practical Projects",
+    "section": "📘 III. MLOPs",
+    "text": "📘 III. MLOPs\n\n✨ Salary Prediction Application\n\n\nThis application predicts the salary of software engineers based on key pieces of information. It features two sections: a prediction page for salary prediction and an exploration page for EDA insights from the dataset. The predictions are generated using an XGBoost model, while the web app is built on Streamlit framework. To ensure the reproducibility, virtual environments are utilized on local hosts and contained by Docker. This app is deployed on GCP as well.\n\n\n\n\n\n   \n\n\nView code on Github"
+  },
+  {
+    "objectID": "projects.html#iv.-data-analysis-and-business-intelligence",
+    "href": "projects.html#iv.-data-analysis-and-business-intelligence",
+    "title": "🚀 Practical Projects",
+    "section": "📘 IV. Data Analysis and Business Intelligence",
+    "text": "📘 IV. Data Analysis and Business Intelligence\n\n✨ Walmart Ecommerce Dashboard Project\n\n\nThis project showcases the creation of an interactive Ecommerce Dashboard for Walmart using Power BI. The goal was to analyze and visualize key performance indicators (KPIs) to gain insights into sales, revenue, customer behavior, and more. The project followed a structured approach, encompassing defining KPIs, working with raw data in SQL Server for efficient manipulation, building SQL queries for validation, connecting Power BI for visualization, and utilizing Power Query for data cleaning.\n\n\n\n\n\n  \n\n\nView code on Github\n\n\n\n\n\n✨ CO2 Emission Data Visualization Dashboard\n\n\nThis interactive dashboard project empowers users to explore and visualize carbon dioxide (CO2) emissions data from Our World in Data. It leverages cutting-edge Python libraries, including Panel, Hvplot, and GeoPandas, to create an intuitive and informative platform for analyzing CO2 emissions worldwide. The dashboard enables users to filter emissions data by year and country, compare emissions trends through scatterplots, and visualize geographical variations on a map.\n\n\n\n\n\n   \n\n\nView code on Github"
+  },
+  {
+    "objectID": "projects copy.html",
+    "href": "projects copy.html",
+    "title": "Practical Projects",
+    "section": "",
+    "text": "This project is designed to identify unsafe holes on construction sites, helping to ensure the well-being of workers and the integrity of job sites. When combined with a Personal Protective Equipment (PPE) detection model, it forms a robust safety monitoring system deployed on Jetson-based edge inference systems.\n🛠️ Workflow and Tech Stack: To train this model, I adopted an Iterative Training Process. Data preparation and deployment were accomplished with Roboflow, while model customization took place in Google Colab.\n🔬 Techniques and Strategies: Transfer learning, Hyperparameter tunning, Multiple Deep Learning Algorithms to train and compare (YOLO, DETR, RCNN, COCO, UNet), Iterative training and Model Refinement.\n\n\n      \nView project on Github\nView project on Google Colab\n\n\n\nThis project is a deep dive into the world of AI-driven customer service chatbots, enhanced by the power of in-context learning. We leverage the Llama Index and Language Model API to create a chatbot that understands and responds to customer inquiries effectively, transforming the way businesses provide support.\n\n\n🔍 Project Highlights: - Utilizes Llama Index for efficient token management and in-context learning. - Extracts relevant customer support conversations from Twitter using a Kaggle dataset. - Trains a chatbot using language models like ChatGPT and Hugging Face. - Creates a user-friendly interface with Gradio for easy customer interaction. - Revolutionizes customer support by combining AI and real customer interactions.\n\\ \\ \\ \\ \\\nView project on Github"
+  },
+  {
+    "objectID": "projects copy.html#i.-deep-learning-and-ai",
+    "href": "projects copy.html#i.-deep-learning-and-ai",
+    "title": "Practical Projects",
+    "section": "",
+    "text": "This project is designed to identify unsafe holes on construction sites, helping to ensure the well-being of workers and the integrity of job sites. When combined with a Personal Protective Equipment (PPE) detection model, it forms a robust safety monitoring system deployed on Jetson-based edge inference systems.\n🛠️ Workflow and Tech Stack: To train this model, I adopted an Iterative Training Process. Data preparation and deployment were accomplished with Roboflow, while model customization took place in Google Colab.\n🔬 Techniques and Strategies: Transfer learning, Hyperparameter tunning, Multiple Deep Learning Algorithms to train and compare (YOLO, DETR, RCNN, COCO, UNet), Iterative training and Model Refinement.\n\n\n      \nView project on Github\nView project on Google Colab\n\n\n\nThis project is a deep dive into the world of AI-driven customer service chatbots, enhanced by the power of in-context learning. We leverage the Llama Index and Language Model API to create a chatbot that understands and responds to customer inquiries effectively, transforming the way businesses provide support.\n\n\n🔍 Project Highlights: - Utilizes Llama Index for efficient token management and in-context learning. - Extracts relevant customer support conversations from Twitter using a Kaggle dataset. - Trains a chatbot using language models like ChatGPT and Hugging Face. - Creates a user-friendly interface with Gradio for easy customer interaction. - Revolutionizes customer support by combining AI and real customer interactions.\n\\ \\ \\ \\ \\\nView project on Github"
+  },
+  {
+    "objectID": "projects copy.html#ii.-data-science-and-machine-learning",
+    "href": "projects copy.html#ii.-data-science-and-machine-learning",
+    "title": "Practical Projects",
+    "section": "📘 II. Data Science and Machine Learning",
+    "text": "📘 II. Data Science and Machine Learning\n\n✨ Dune Series Network Analysis and Community Detection\nThis project delves into the captivating “Dune” book series by Frank Herbert using advanced data analysis techniques. By harnessing natural language processing and network science, we uncover the intricate web of character relationships and communities within this iconic science fiction universe.\n🔍 Project Highlights: - Utilizes Named Entity Recognition (NER) to extract character and location names. - Constructs a character relationship graph using NetworkX. - Applies the Louvain Algorithm for community detection. - Evaluates community structure with modularity analysis and centrality measures.\n\n\n\nDune Network Analysis\n\n\n    \nView project on Github\n\n\n✨ CV and Job Matching\nThis application predicts the matching percentage of a candidate’s resume to a job posting. It utilizes the Doc2Vec model, which represents job descriptions and resumes as numerical vectors. Doc2Vec combines the Continuous Bag-of-Words (CBOW) and Skip-Gram techniques to efficiently compare and calculate similarity between textual documents. The trained model can be easily deployed and hosted online (Azure), providing a convenient solution for matching CVs with job postings.\nNote: The algorithm serves as the first step in a use-case scenario where a company receives multiple job applications for various job postings. The second step involves employing the modified Gale-Shapley algorithm to index candidates for each job and select the best match.\n\n     \nView code on Github\n\n\n✨ Sales forecasting using SARIMAX (Industry best practices)\nThis project follows industry best practices to address time series problems and involves key steps such as checking for stationarity, data transformation, decomposing models into components, anomaly detection, white noise checking, identifying orders, and performance measurement. The goal is to provide accurate sales forecasts for Walmart superstore and facilitate data-driven decisions.\n\n      \nView code on Github\n\n\n✨ Automated Text Data Extraction and Form Filling System\nThis project introduces an innovative solution for automating text data extraction and form filling, aiming to streamline data processing in the digital age. Leveraging a combination of OCR, natural language processing, and rule-based approaches, it offers an efficient way to extract information from unstructured text and populate forms accurately, saving time and reducing errors.\n🔍 Project Highlights: - Incorporates Optical Character Recognition (OCR) for text recognition. - Employs Named Entity Recognition (NER) to identify and capture entities. - Utilizes regular expressions for structured data extraction. - Integrates rule-based approaches for specific data patterns. - Offers a hybrid approach combining multiple methods for robust extraction. - Harnesses large language models (ChatGPT API) for context-aware data extraction.\n\n\n\nProject Preview\n\n\n     \nView project on Github\n\n\n✨ Explainable Machine Learning - Understand the Black-Box\nInterpretable Machine Learning (ML) is a critical aspect of advancing the use of machine learning in various fields. Many black box models hinder ML’s adoption due to their lack of transparency and interpretability. The Jupyter Notebook in this repository includes the following sections:\n\nPDP for Bike Rent Data: Demonstrates how to use Partial Dependence Plots for interpreting a machine learning model using bike rental data. It explains how the model works and how to interpret PDP plots.\n\n\n\n\nPDP\n\n\n\nLIME for Image Classification: Illustrates the use of LIME to explain an image classification model. It provides insights into the model’s predictions and how to interpret LIME plots.\nSHAP for Breast Cancer Classification: Shows how to use SHAP values for interpreting a breast cancer classification model. It describes the model’s behavior and how to interpret SHAP plots.\n\n\n\nComparative Analysis: Offers a comparative analysis of PDP, LIME, and SHAP, summarizing the strengths and weaknesses of each method for model interpretability.\n\n   \nView project on Github"
+  },
+  {
+    "objectID": "projects copy.html#iii.-mlops",
+    "href": "projects copy.html#iii.-mlops",
+    "title": "Practical Projects",
+    "section": "📘 III. MLOPs",
+    "text": "📘 III. MLOPs\n\n✨ Salary Prediction Application\nThis application predicts the salary of software engineers based on key pieces of information. It features two sections: a prediction page for salary prediction and an exploration page for EDA insights from the dataset. The predictions are generated using an XGBoost model, while the web app is built on Streamlit framework. To ensure the reproducibility, virtual environments are utilized on local hosts and contained by Docker. This app is deployed on GCP as well. A video guide on how to use the application is also available.\n\n\n     \nView code on Github"
+  },
+  {
+    "objectID": "projects copy.html#iv.-data-analysis-and-business-intelligence",
+    "href": "projects copy.html#iv.-data-analysis-and-business-intelligence",
+    "title": "Practical Projects",
+    "section": "📘 IV. Data Analysis and Business Intelligence",
+    "text": "📘 IV. Data Analysis and Business Intelligence\n\n✨ Walmart Ecommerce Dashboard Project\nThis project showcases the creation of an interactive Ecommerce Dashboard for Walmart using Power BI. The goal was to analyze and visualize key performance indicators (KPIs) to gain insights into sales, revenue, customer behavior, and more. The project followed a structured approach, encompassing defining KPIs, working with raw data in SQL Server for efficient manipulation, building SQL queries for validation, connecting Power BI for visualization, and utilizing Power Query for data cleaning. By incorporating calculated measures and time intelligence functions, the dashboard provides a comprehensive overview of Walmart’s ecommerce operations. The project follows a standard pipeline in BI and DA, starting from database to transformation and visualization.\n\n\n  \nView code on Github\n\n\n✨ CO2 Emission Data Visualization Dashboard\nThis interactive dashboard project empowers users to explore and visualize carbon dioxide (CO2) emissions data from Our World in Data. It leverages cutting-edge Python libraries, including Panel, Hvplot, and GeoPandas, to create an intuitive and informative platform for analyzing CO2 emissions worldwide. The dashboard enables users to filter emissions data by year and country, compare emissions trends through scatterplots, and visualize geographical variations on a map. It serves as a valuable tool for gaining insights into the primary driver of global climate change and fostering data-driven discussions around emissions reduction.\n\n\n   \nView code on Github"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "🔬 Research",
+    "section": "",
+    "text": "Trustworthy AI, with a focus on privacy, security, and robustness in large language models (LLMs).\n\n🛡️ My work explores: - 🔒 Adversarial robustness - 🔐 Differential privacy - 💧 Watermarking techniques\nto ensure reliable and ethical deployment of LLMs in real-world applications."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "Interest 1\nInterest 2\nInterest 3"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "",
+    "text": "Author, A., & Author, B. (Year). Title. Journal Name, Volume(Issue), pages.\n\n\n\n\n\nAuthor, A., & Author, B. (Year). Title. In Conference Name (pp. pages)."
+  },
+  {
+    "objectID": "research.html#current-research-projects",
+    "href": "research.html#current-research-projects",
+    "title": "Research",
+    "section": "",
+    "text": "Project 1: Description\nProject 2: Description"
+  },
+  {
+    "objectID": "research.html#research-collaborations",
+    "href": "research.html#research-collaborations",
+    "title": "Research",
+    "section": "",
+    "text": "List of current research collaborations and partners."
+  },
+  {
+    "objectID": "research.html#published",
+    "href": "research.html#published",
+    "title": "🔬 Research",
+    "section": "📖 Published",
+    "text": "📖 Published\n\nKieu Dang, Phung Lai. Navigating Trustworthiness in LLMs: An Examination of Privacy, Security, and Robustness. In Proceedings of Computational Data and Social Networks (CSoNet 2024).\nDylan Tarace, Phung Lai, Kieu Dang, Unal Tatar. AI-Powered Assessment of Wazuh for Obfuscated Threat Detection. In Proceedings of IEEE Systems and Information Engineering Design Symposium (SIEDS 2025)."
+  },
+  {
+    "objectID": "research.html#forthcoming-submitted",
+    "href": "research.html#forthcoming-submitted",
+    "title": "🔬 Research",
+    "section": "📝 Forthcoming (Submitted)",
+    "text": "📝 Forthcoming (Submitted)\n\nKieu Dang, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin. SafeSeal: Certifiable Watermarking for LLM Deployments. ACM CCS 2025.\nKieu Dang, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah, My Thai. SoK: Are Watermarks in LLMs Ready for Deployment? IEEE S&P 2025.\nKieu Dang, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah. 𝛿-Steal: LLM Stealing Attack with LDP. ECML PKDD 2025."
+  }
+]
