@@ -21,6 +21,7 @@ website:
         text: Blog
       - href: cv.pdf
         text: CV
+    right: []
 
 format:
   html:
@@ -30,7 +31,7 @@ format:
     css: styles.css
     toc: true
     code-fold: true
-    code-tools: true
+    code-tools: false
     highlight-style: github
     html-math-method: katex
     fontfamily: sans-serif
