@@ -1,29 +1,66 @@
-# quarto-academic-website
-A template for a basic academic website made using [Quarto](https://quarto.org).
-It is meant to be a starting point for a Quarto based website, as Quarto has many more options than what is shown here.
+# Personal Academic Website
 
-The website contains:
+This is my personal academic website built using [Quarto](https://quarto.org). The website showcases my academic profile, research work, and professional experience.
 
-- Home page
-  - profile picture
-  - icons for links to Github, etc.
-- About page
-- Research page
-  - Automatically lists paper/project pages in the "research/" folder
-- CV pdf
+## Website Structure
 
-## How to Use
+The website contains the following sections:
 
-Click "Use this template".
+- **Home** (`index.qmd`)
+  - Profile picture and introduction
+  - Research interests
+  - Education background
+  - Recent updates
+  - Quick links to other sections
+
+- **Research** (`research.qmd`)
+  - Research interests in Trustworthy AI
+  - Publications and patents
+  - Research experience and collaborations
+
+- **Academic Experience** (`academic.qmd`)
+  - Education history
+  - Teaching and mentorship experience
+  - Honors and awards
+  - Professional services
+
+- **Professional Experience** (`professional.qmd`)
+  - Industry experience
+  - Technical skills
+  - Project highlights
+
+- **Projects** (`projects.qmd`)
+  - Research projects
+  - Data science projects
+  - Current projects
+  - Collaborations
+
+- **Blog** (`blog.qmd`)
+  - Personal blog posts
+  - Technical articles
+  - Research updates
 
 ## Customization
 
-- First, [install Quarto](https://quarto.org/docs/get-started/)
+The website is built using:
+- Quarto for static site generation
+- Custom SCSS and CSS for styling
+- GitHub Pages for hosting
+- GitHub Actions for automated deployment
 
-Add your own "profile.jpg" and "cv.pdf" to the repository.
-Then edit the text and options in each ".qmd" file.
-The "_quarto.yml" controls some site-wide settings, like the navbar links.
-You can create new papers in the listing by adding new ".qmd" files to the "research/" folder.
-Change the "favicon" by replacing "logo.png" with a new image.
-You can generate favicons at [favicon.io](https://favicon.io).
-You just need one of the png files, not all of the versions.
+### Key Features
+- Responsive design
+- Clean and modern layout
+- Easy navigation
+- Mobile-friendly interface
+- Automated deployment through GitHub Actions
+
+## Deployment
+
+The website is automatically deployed to GitHub Pages using GitHub Actions. Any push to the main branch triggers a new deployment.
+
+## Contact
+
+- Email: vdang@albany.edu
+- GitHub: [kirudang](https://github.com/kirudang)
+- Google Scholar: [Kieu Dang](https://scholar.google.com/citations?hl=en&user=QOjXeq4AAAAJ)
