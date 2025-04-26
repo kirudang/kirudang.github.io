@@ -1,0 +1,95 @@
+/* css styles */
+
+/* Custom styles for the website */
+
+/* Profile section */
+.profile-section {
+  margin-bottom: 2em;
+}
+
+/* Research interests */
+.research-interests {
+  margin: 1.5em 0;
+}
+
+.research-interests li {
+  margin-bottom: 0.8em;
+  position: relative;
+  padding-left: 1.5em;
+}
+
+.research-interests li::before {
+  content: "•";
+  color: #3366cc;
+  position: absolute;
+  left: 0;
+  font-size: 1.2em;
+}
+
+/* Contact section */
+.contact-section {
+  margin-top: 2em;
+  padding: 1.5em;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+}
+
+.contact-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  margin-top: 1em;
+}
+
+.contact-links a {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5em 1em;
+  background-color: #f0f4f8;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.contact-links a:hover {
+  background-color: #e0e8f0;
+  transform: translateY(-2px);
+}
+
+/* Quick links section */
+.quick-links {
+  margin-top: 2em;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1em;
+}
+
+.quick-links a {
+  display: flex;
+  align-items: center;
+  padding: 1em;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.quick-links a:hover {
+  background-color: #e0e8f0;
+  transform: translateY(-2px);
+}
+
+/* Emoji styling */
+.emoji {
+  font-size: 1.2em;
+  margin-right: 0.5em;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .quick-links {
+    grid-template-columns: 1fr;
+  }
+  
+  .contact-links {
+    flex-direction: column;
+  }
+}

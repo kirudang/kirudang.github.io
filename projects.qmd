@@ -1,0 +1,342 @@
+---
+title: "🚀 Practical Projects"
+format: html
+---
+
+## 📘 I. Deep Learning and AI
+
+### ✨ Construction Safety - Object Detection 
+<div class="project-card">
+<div class="project-content">
+This project is designed to **identify unsafe holes on construction sites**, helping to ensure the well-being of workers and the integrity of job sites. When combined with a Personal Protective Equipment (PPE) detection model, it forms a robust safety monitoring system deployed on Jetson-based edge inference systems.
+
+🛠️ **Workflow and Tech Stack**: To train this model, I adopted an Iterative Training Process. Data preparation and deployment were accomplished with Roboflow, while model customization took place in Google Colab.
+
+🔬 **Techniques and Strategies**: Transfer learning, Hyperparameter tuning, Multiple Deep Learning Algorithms to train and compare (YOLO, DETR, RCNN, COCO, UNet), Iterative training and Model Refinement.
+
+<div class="project-media">
+<video src="https://github.com/kirudang/Construction_safety/assets/91911269/cc3c32a1-b3fc-4076-a2a0-d63139ed6c05" controls></video>
+</div>
+
+<div class="tech-stack">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=google-colab&logoColor=white">
+<img src="https://img.shields.io/badge/Roboflow-FF4A4A?logo=roboflow&logoColor=white">
+<img src="https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black">
+<img src="https://img.shields.io/badge/DETR-white">
+<img src="https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&logoColor=white">
+</div>
+
+<div class="project-links">
+[View project on Github](https://github.com/kirudang/Construction_safety) | [View project on Google Colab](https://drive.google.com/file/d/18ZjitWpxPUkNBdOznrzS8QCO-e43dVic/view?usp=sharing)
+</div>
+</div>
+</div>
+
+### ✨ Customer Service Chatbot with In-Context Learning
+<div class="project-card">
+<div class="project-content">
+This project is a deep dive into the world of AI-driven customer service chatbots, enhanced by the power of in-context learning. We leverage the Llama Index and Language Model API to create a chatbot that understands and responds to customer inquiries effectively, transforming the way businesses provide support.
+
+<div class="project-media">
+<video src="https://github.com/kirudang/kirudang.github.io/assets/91911269/4063c1a5-7bf3-41c9-bdf9-7ef5f5d9de3e" controls style="width: 640px; height: 360px;">
+</video>
+</div>
+
+🔍 **Project Highlights:**
+- Utilizes Llama Index for efficient token management and in-context learning
+- Extracts relevant customer support conversations from Twitter using a Kaggle dataset
+- Trains a chatbot using language models like ChatGPT and Hugging Face
+- Creates a user-friendly interface with Gradio for easy customer interaction
+- Revolutionizes customer support by combining AI and real customer interactions
+
+<div class="tech-stack">
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](#)
+[![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge&logo=gradio&logoColor=white)](#)
+</div>
+
+<div class="project-links">
+[View project on Github](https://github.com/kirudang/Customer_service_chatbot)
+</div>
+</div>
+</div>
+
+## 📘 II. Data Science and Machine Learning
+
+### ✨ Dune Series Network Analysis and Community Detection
+<div class="project-card">
+<div class="project-content">
+This project delves into the captivating "Dune" book series by Frank Herbert using advanced data analysis techniques. By harnessing natural language processing and network science, we uncover the intricate web of character relationships and communities within this iconic science fiction universe.
+
+🔍 **Project Highlights:**
+- Utilizes Named Entity Recognition (NER) to extract character and location names
+- Constructs a character relationship graph using NetworkX
+- Applies the Louvain Algorithm for community detection
+- Evaluates community structure with modularity analysis and centrality measures
+
+<div class="project-media">
+![Dune Network Analysis](projects/dune.gif)
+</div>
+
+<div class="tech-stack">
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)](#)
+[![NetworkX](https://img.shields.io/badge/NetworkX-FF6B6B?style=for-the-badge&logo=networkx&logoColor=white)](#)
+</div>
+
+<div class="project-links">
+[View project on Github](https://github.com/kirudang/Network_analysis_Dune)
+</div>
+</div>
+</div>
+
+### ✨ CV and Job Matching
+<div class="project-card">
+<div class="project-content">
+This application predicts the matching percentage of a candidate's resume to a job posting. It utilizes the Doc2Vec model, which represents job descriptions and resumes as numerical vectors. Doc2Vec combines the **Continuous Bag-of-Words (CBOW)** and **Skip-Gram** techniques to efficiently compare and calculate similarity between textual documents.
+
+**Note:** The algorithm serves as the first step in a use-case scenario where a company receives multiple job applications for various job postings. The second step involves employing the modified **Gale-Shapley algorithm** to index candidates for each job and select the best match.
+
+<div class="project-media">
+<img width="561" alt="CV Job Matching" src="https://github.com/kirudang/CV-Job-matching/assets/91911269/93041869-4641-4133-99f9-fd723acc89f5">
+</div>
+
+<div class="tech-stack">
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
+[![Doc2Vec](https://img.shields.io/badge/Doc2Vec-FF6B6B?style=for-the-badge)](#)
+</div>
+
+<div class="project-links">
+[View code on Github](https://github.com/kirudang/CV-Job-matching/tree/main)
+</div>
+</div>
+</div>
+
+### ✨ Sales forecasting using SARIMAX
+<div class="project-card">
+<div class="project-content">
+This project follows industry best practices to address time series problems and involves key steps such as checking for stationarity, data transformation, decomposing models into components, anomaly detection, white noise checking, identifying orders, and performance measurement. The goal is to provide accurate sales forecasts for Walmart superstore and facilitate data-driven decisions.
+
+<div class="project-media">
+<img src="https://user-images.githubusercontent.com/91911269/233193537-c8af8922-d348-4794-93de-1a11a7cc1848.png">
+</div>
+
+<div class="tech-stack">
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
+[![Statsmodels](https://img.shields.io/badge/Statsmodels-FF6B6B?style=for-the-badge)](#)
+</div>
+
+<div class="project-links">
+[View code on Github](https://github.com/kirudang/Walmart_sales_forecast)
+</div>
+</div>
+</div>
+
+### ✨ Automated Text Data Extraction and Form Filling System
+<div class="project-card">
+<div class="project-content">
+This project introduces an innovative solution for automating text data extraction and form filling, aiming to streamline data processing in the digital age. Leveraging a combination of OCR, natural language processing, and rule-based approaches, it offers an **efficient way to extract information from unstructured text and populate forms accurately**, saving time and reducing errors.
+
+🔍 **Project Highlights:**
+- Incorporates Optical Character Recognition (OCR) for text recognition
+- Employs Named Entity Recognition (NER) to identify and capture entities
+- Utilizes regular expressions for structured data extraction
+- Integrates rule-based approaches for specific data patterns
+- Offers a hybrid approach combining multiple methods for robust extraction
+- Harnesses large language models (ChatGPT API) for context-aware data extraction
+
+<div class="project-media">
+![Project Preview](projects/Extract.png)
+</div>
+
+<div class="tech-stack">
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![OCR](https://img.shields.io/badge/OCR-FF6B6B?style=for-the-badge)](#)
+[![NER](https://img.shields.io/badge/NER-FF6B6B?style=for-the-badge)](#)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)](#)
+</div>
+
+<div class="project-links">
+[View project on Github](https://github.com/kirudang/Automated_Text_Extraction/tree/main)
+</div>
+</div>
+</div>
+
+### ✨ Explainable Machine Learning - Understand the Black-Box
+<div class="project-card">
+<div class="project-content">
+Interpretable Machine Learning (ML) is a critical aspect of advancing the use of machine learning in various fields. Many black box models hinder ML's adoption due to their lack of transparency and interpretability.
+
+🔍 **Project Components:**
+- **PDP for Bike Rent Data**: Demonstrates how to use Partial Dependence Plots for interpreting a machine learning model using bike rental data
+- **LIME for Image Classification**: Illustrates the use of LIME to explain an image classification model
+- **SHAP for Breast Cancer Classification**: Shows how to use SHAP values for interpreting a breast cancer classification model
+- **Comparative Analysis**: Offers a comparative analysis of PDP, LIME, and SHAP
+
+<div class="project-media">
+![PDP](projects/pdp.png)
+</div>
+
+<div class="tech-stack">
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
+[![LIME](https://img.shields.io/badge/LIME-FF6B6B?style=for-the-badge)](#)
+[![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge)](#)
+</div>
+
+<div class="project-links">
+[View project on Github](https://github.com/kirudang/Explainable_ML/tree/main)
+</div>
+</div>
+</div>
+
+## 📘 III. MLOPs
+
+### ✨ Salary Prediction Application
+<div class="project-card">
+<div class="project-content">
+This application predicts the salary of software engineers based on key pieces of information. It features two sections: a prediction page for salary prediction and an exploration page for EDA insights from the dataset. The predictions are generated using an **XGBoost model**, while the web app is built on **Streamlit** framework. To ensure the reproducibility, **virtual environments** are utilized on local hosts and contained by **Docker**. This app is deployed on **GCP** as well.
+
+<div class="project-media">
+<video src="https://user-images.githubusercontent.com/91911269/232245448-62de1f12-1262-4efa-878b-150b9f3d96cc.mp4" controls style="width: 640px; height: 360px;">
+</video>
+</div>
+
+<div class="tech-stack">
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
+</div>
+
+<div class="project-links">
+[View code on Github](https://github.com/kirudang/salary_prediction_app)
+</div>
+</div>
+</div>
+
+## 📘 IV. Data Analysis and Business Intelligence
+
+### ✨ Walmart Ecommerce Dashboard Project
+<div class="project-card">
+<div class="project-content">
+This project showcases the creation of an interactive Ecommerce Dashboard for Walmart using **Power BI**. The goal was to analyze and visualize key performance indicators (KPIs) to gain insights into sales, revenue, customer behavior, and more. The project followed a structured approach, encompassing defining KPIs, working with raw data in **SQL Server** for efficient manipulation, building SQL queries for validation, connecting Power BI for visualization, and utilizing Power Query for data cleaning.
+
+<div class="project-media">
+<iframe width="640" height="500" src="https://www.youtube.com/embed/md89TPyT_lM" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="tech-stack">
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](#)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](#)
+[![Power Query](https://img.shields.io/badge/Power%20Query-FF6B6B?style=for-the-badge)](#)
+</div>
+
+<div class="project-links">
+[View code on Github](https://github.com/kirudang/Ecom_dashboard_Walmart/tree/main)
+</div>
+</div>
+</div>
+
+### ✨ CO2 Emission Data Visualization Dashboard
+<div class="project-card">
+<div class="project-content">
+This interactive dashboard project empowers users to explore and visualize carbon dioxide (CO2) emissions data from Our World in Data. It leverages cutting-edge Python libraries, including **Panel**, **Hvplot**, and **GeoPandas**, to create an intuitive and informative platform for analyzing CO2 emissions worldwide. The dashboard enables users to filter emissions data by year and country, compare emissions trends through scatterplots, and visualize geographical variations on a map.
+
+<div class="project-media">
+<video src="https://github.com/kirudang/kirudang.github.io/assets/91911269/49da9b8f-290c-413e-9dee-ca6b72f45b6c" controls style="width: 640px; height: 360px;">
+</video>
+</div>
+
+<div class="tech-stack">
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Panel](https://img.shields.io/badge/Panel-FF6B6B?style=for-the-badge)](#)
+[![Hvplot](https://img.shields.io/badge/Hvplot-FF6B6B?style=for-the-badge)](#)
+[![GeoPandas](https://img.shields.io/badge/GeoPandas-FF6B6B?style=for-the-badge)](#)
+</div>
+
+<div class="project-links">
+[View code on Github](https://github.com/kirudang/Interactive_dashboard_Panel)
+</div>
+</div>
+</div>
+
+<style>
+h2 {
+    font-size: 28px;
+    color: #2c3e50;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #0366d6;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-size: 22px;
+    color: #34495e;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.project-card {
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 25px;
+    margin-bottom: 40px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+.project-content {
+    margin-bottom: 20px;
+    font-size: 1rem;
+    line-height: 1.7;
+}
+
+.project-media {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.project-media video, .project-media img, .project-media iframe {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.tech-stack img {
+    height: 28px;
+}
+
+.project-links {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.project-links a {
+    margin: 0 10px;
+    color: #0366d6;
+    text-decoration: none;
+}
+
+.project-links a:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    .tech-stack {
+        justify-content: center;
+    }
+}
+</style>

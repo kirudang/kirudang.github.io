@@ -1,0 +1,119 @@
+---
+title: "🏫 Academic Experience"
+format: html
+---
+
+# 🎓 Education
+
+<ul class="custom-list">
+<li>
+<strong>Ph.D. Student in Information Science</strong> <span class="date-inline">Aug 2024 – Present</span><br>
+🏫 State University of New York at Albany, NY, USA<br>
+🔬 Research Topic: Trustworthy Machine Learning and AI through the Lens of Privacy and Security<br>
+📊 GPA: 4.00/4.00
+</li>
+
+<li>
+<strong>Master in Analytics, Applied Machine Intelligence</strong> <span class="date-inline">Aug 2021 – Jul 2023</span><br>
+🏫 Northeastern University, MA, USA<br>
+📝 Thesis: Improving Safety through the Integration of Multi-sensor Fusion and Deep Learning-based Object Detection<br>
+📊 GPA: 4.00/4.00
+</li>
+</ul>
+
+# 👨‍🏫 Teaching & Student Mentorship Experience
+
+<ul class="custom-list">
+<li>
+<strong>Intern Mentor</strong> – State University of New York at Albany <span class="date-inline">Jan 2024 – Present</span><br>
+🤝 Mentored undergraduate interns on the project *Transforming Large Language Model Alignment: Automating Reference Data Generation through Explainable AI*.
+</li>
+
+<li>
+<strong>Teaching Assistant</strong> – Northeastern University <span class="date-inline">Aug 2021 – Dec 2021</span><br>
+📚 Course: ALY 6010 - Introduction to Statistics and Probability
+</li>
+</ul>
+
+# 🏆 Honors & Awards
+
+<ul class="custom-list">
+🥈 Second Prize, Best Poster at NTIR 2025 <span class="date-inline">Apr 2025</span> <br>
+🎓 Valedictorian, Master in Analytics, Northeastern University <span class="date-inline">Jul 2023</span> <br>
+🏅 Hackathon Winner – OCR and Language Model for Form Autofill, Definity Financial <span class="date-inline">Feb 2023</span> <br>
+🎯 Top 20 Finalist – VinUniversity Global Case Competition <span class="date-inline">Dec 2021</span> <br>
+💰 Merit-based Scholarship, Foreign Trade University <span class="date-inline">2013 & 2014</span> <br>
+🌟 Talent Incubation Scholarship, Coca-Cola Vietnam & Thanh Nien News <span class="date-inline">Nov 2013</span> <br>
+🌍 Ambassador – Exchange Participant, AIESEC Indonesia <span class="date-inline">Jun–Aug 2013</span> <br>
+</ul>
+
+# 🤝 Professional Services
+
+<ul class="custom-list">
+🎪 Organizer committee, NTIR Conference - Where Innovation Meets Information 2025 <span class="date-inline">April 2025</span> <br>
+📖 Journal Reviewer, Journal of Combinatorial Optimization 2025 <span class="date-inline">Jan–May 2025</span> <br>
+📝 Conference Reviewer, Computational Data and Social Networks 2024 <span class="date-inline">Oct–Dec 2024</span> <br>
+
+
+<style>
+h1 {
+    font-size: 28px;
+    color: #2c3e50;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #0366d6;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-size: 22px;
+    color: #34495e;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+ul.custom-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 25px;
+    line-height: 1.7;
+    display: block;
+    position: relative;
+}
+
+strong {
+    color: #0366d6;
+    font-weight: bold;
+}
+
+.date-inline {
+    float: right;
+    color: #586069;
+    font-size: 0.85em;
+    margin-left: 10px;
+    white-space: nowrap;
+}
+
+/* Clear float after each item */
+li::after {
+    content: \"\";
+    display: block;
+    clear: both;
+}
+
+em {
+    color: #586069;
+    font-style: italic;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .date-inline {
+        float: none;
+        display: block;
+        margin-top: 5px;
+    }
+}
+</style>

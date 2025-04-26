@@ -1,0 +1,31 @@
+---
+title: "Blog"
+format: html
+---
+
+# Blog Posts
+
+Here you'll find my thoughts, tutorials, and updates about my work.
+
+## Recent Posts
+
+::: {.blog-posts}
+### [Post Title 1](/blog/post1.html)
+**Date**: January 1, 2024  
+A brief description of the blog post content.
+
+### [Post Title 2](/blog/post2.html)
+**Date**: December 15, 2023  
+A brief description of the blog post content.
+:::
+
+## Categories
+
+- Research Updates
+- Tutorials
+- Project Updates
+- General Thoughts
+
+## Subscribe
+
+Stay updated with my latest posts by following me on [Twitter](#) or subscribing to the RSS feed. 

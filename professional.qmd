@@ -1,0 +1,94 @@
+---
+title: " 💼 Professional Experience"
+format: html
+---
+
+<!-- # 💼 Professional Experience -->
+
+<ul class="custom-list">
+
+<li>
+<strong>Machine Learning Content Engineer (Freelancer – Partner Program)</strong> <span class="date-inline">Nov 2022 – Present</span><br>
+🏢 A Medium Corporation, CA, USA<br>
+📝 Translate complex machine learning topics, especially in NLP, into accessible and insightful content for a diverse audience.
+</li>
+
+<li>
+<strong>Senior Data Scientist (Remote Full Time)</strong> <span class="date-inline">Oct 2023 – May 2024</span><br>
+🏢 Hitachi Vantara Corporation, CA, USA<br>
+- 🤖 Applied deep learning to deploy predictive models across healthcare, retail, manufacturing, and finance.<br>
+- 🧠 Enhanced financial text analytics using advanced NLP techniques.<br>
+- 📈 Built causal time series models to improve retail supply chain forecasting.
+</li>
+
+<li>
+<strong>Data Scientist and Modeling (Co-op)</strong> <span class="date-inline">Jan 2023 – May 2023</span><br>
+🏢 Definity Financial, ON, Canada<br>
+- 🖼️ Prepared image, text, and tabular data on car accidents for predictive modeling.<br>
+- 🚀 Built and deployed four models for underwriting, actuary, and claims with reproducible pipelines.
+</li>
+
+<li>
+<strong>Senior Manager, Category Management</strong> <span class="date-inline">Sep 2020 – Aug 2021</span><br>
+🏢 Alibaba Group – Lazada E-commerce, HCMC, Vietnam<br>
+- 🔍 Collaborated with the Data Science team to evaluate search exposure and sales drivers using text mining and A/B testing techniques.<br>
+- 📊 Conducted hypothesis-driven ad-hoc analysis to address business-critical operational queries.
+</li>
+
+</ul>
+
+<style>
+h1 {
+    font-size: 28px;
+    color: #2c3e50;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #0366d6;
+    padding-bottom: 10px;
+}
+
+ul.custom-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 25px;
+    line-height: 1.7;
+    display: block;
+    position: relative;
+}
+
+strong {
+    color: #0366d6;
+    font-weight: bold;
+}
+
+.date-inline {
+    float: right;
+    color: #586069;
+    font-size: 0.85em;
+    margin-left: 10px;
+    white-space: nowrap;
+}
+
+/* Clear float after each item */
+li::after {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+em {
+    color: #586069;
+    font-style: italic;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .date-inline {
+        float: none;
+        display: block;
+        margin-top: 5px;
+    }
+}
+</style>

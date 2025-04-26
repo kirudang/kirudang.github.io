@@ -1,0 +1,26 @@
+{
+  "blog/index.qmd": {
+    "index.html": "070f3e84"
+  },
+  "index.qmd": {
+    "index.html": "7ea2e54c"
+  },
+  "research.qmd": {
+    "research.html": "8f73ec5d"
+  },
+  "projects.qmd": {
+    "projects.html": "3840aa0d"
+  },
+  "blog.qmd": {
+    "blog.html": "e321e4ce"
+  },
+  "professional.qmd": {
+    "professional.html": "000a3f2c"
+  },
+  "projects copy.qmd": {
+    "projects copy.html": "6fbd4333"
+  },
+  "academic.qmd": {
+    "academic.html": "398687bb"
+  }
+}

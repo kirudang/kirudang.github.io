@@ -1,0 +1,130 @@
+---
+title: "🔬 Research"
+format: html
+---
+
+<!-- # 🔬 Research Interests -->
+
+<div class="research-card">
+Trustworthy AI, with a focus on **privacy**, **security**, and **robustness** in large language models (LLMs).
+
+<div class="research-highlights">
+🛡️ **My work explores:**<br>
+- 🔒 Adversarial robustness<br>
+- 🔐 Differential privacy<br>
+- 💧 Watermarking techniques<br>
+
+to ensure reliable and ethical deployment of LLMs in real-world applications.
+</div>
+</div>
+
+# 📚 Publications
+
+## 📖 Published
+<ul class="custom-list">
+**Kieu Dang**, Phung Lai. *Navigating Trustworthiness in LLMs: An Examination of Privacy, Security, and Robustness*. In Proceedings of Computational Data and Social Networks (**CSoNet 2024**).
+
+Dylan Tarace, Phung Lai, **Kieu Dang**, Unal Tatar. *AI-Powered Assessment of Wazuh for Obfuscated Threat Detection*. In Proceedings of IEEE Systems and Information Engineering Design Symposium (**SIEDS 2025**).
+</ul>
+
+## 📝 Forthcoming (Submitted)
+<ul class="custom-list">
+**Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin. *SafeSeal: Certifiable Watermarking for LLM Deployments*. ACM CCS 2025.
+
+**Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah, My Thai. *SoK: Are Watermarks in LLMs Ready for Deployment?* IEEE S&P 2025.
+
+**Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah. *𝛿-Steal: LLM Stealing Attack with LDP*. ECML PKDD 2025.
+</ul>
+
+# 📜 Patent
+
+<ul class="custom-list">
+**Kieu Dang**, Phung Lai, NhatHai Phan. *SafeSeal: Certifiable Watermarking for LLM Deployments* — Filed non-provisional US patent, April 15, 2025.
+</ul>
+
+# 🏛️ Research Experience
+
+<ul class="custom-list">
+<li>
+<strong>Responsible AI Lab – State University of New York at Albany</strong> <span class="date-inline">Jan 2024 – Present</span><br>
+🤝 Collaborating with Microsoft, NJIT, KSU, UF, and HBKU (Qatar) on trustworthy machine learning experiments.<br>
+🧪 Designing and evaluating adversarial robustness strategies for LLMs.
+</li>
+</ul>
+
+<style>
+.research-card {
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+}
+
+.research-highlights {
+    margin-top: 15px;
+    padding-left: 20px;
+    border-left: 3px solid #0366d6;
+}
+
+h1 {
+    font-size: 28px;
+    color: #2c3e50;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #0366d6;
+    padding-bottom: 10px;
+}
+
+h2 {
+    font-size: 22px;
+    color: #34495e;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+ul.custom-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 25px;
+    line-height: 1.7;
+    display: block;
+    position: relative;
+}
+
+strong {
+    color: #0366d6;
+    font-weight: bold;
+}
+
+.date-inline {
+    float: right;
+    color: #586069;
+    font-size: 0.85em;
+    margin-left: 10px;
+    white-space: nowrap;
+}
+
+/* Clear float after each item */
+li::after {
+    content: \"\";
+    display: block;
+    clear: both;
+}
+
+em {
+    color: #586069;
+    font-style: italic;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .date-inline {
+        float: none;
+        display: block;
+        margin-top: 5px;
+    }
+}
+</style>
