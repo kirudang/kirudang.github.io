@@ -39,8 +39,7 @@ This project is designed to **identify unsafe holes on construction sites**, hel
 This project is a deep dive into the world of AI-driven customer service chatbots, enhanced by the power of in-context learning. We leverage the Llama Index and Language Model API to create a chatbot that understands and responds to customer inquiries effectively, transforming the way businesses provide support.
 
 <div class="project-media">
-<video src="https://github.com/kirudang/kirudang.github.io/assets/91911269/4063c1a5-7bf3-41c9-bdf9-7ef5f5d9de3e" controls style="width: 640px; height: 360px;">
-</video>
+![Chatbot](projects/chatbot.gif)
 </div>
 
 🔍 **Project Highlights:**
@@ -249,7 +248,7 @@ This project showcases the creation of an interactive Ecommerce Dashboard for Wa
 This interactive dashboard project empowers users to explore and visualize carbon dioxide (CO2) emissions data from Our World in Data. It leverages cutting-edge Python libraries, including **Panel**, **Hvplot**, and **GeoPandas**, to create an intuitive and informative platform for analyzing CO2 emissions worldwide. The dashboard enables users to filter emissions data by year and country, compare emissions trends through scatterplots, and visualize geographical variations on a map.
 
 <div class="project-media">
-<video src="https://github.com/kirudang/kirudang.github.io/assets/91911269/49da9b8f-290c-413e-9dee-ca6b72f45b6c" controls style="width: 640px; height: 360px;">
+<video src="https://github.com/kirudang/Interactive_dashboard_Panel/assets/91911269/cd230aa1-e1ae-4847-be22-f39290d36f2d" controls style="width: 640px; height: 360px;">
 </video>
 </div>
 
