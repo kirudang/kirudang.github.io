@@ -60,7 +60,7 @@ My research explores the intersection of **Trustworthy AI** and **Privacy-Preser
 ## Contact  
 📧 [vdang@albany.edu](mailto:vdang@albany.edu)  <br>
 📰 [Medium](https://medium.com/@kirudang)  <br>
-🧑‍💻 [GitHub](https://kirudang.github.io/)  <br>
+🧑‍💻 [GitHub](https://github.com/kirudang)  <br>
 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=QOjXeq4AAAAJ)
 
 Thank you!
