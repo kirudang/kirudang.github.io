@@ -22,11 +22,11 @@ to ensure reliable and ethical deployment of LLMs in real-world applications.
 
 ## 📖 Published
 <ul class="custom-list">
-**Kieu Dang**, Phung Lai. *Navigating Trustworthiness in LLMs: An Examination of Privacy, Security, and Robustness*. In Proceedings of Computational Data and Social Networks (**CSoNet 2024**).
+**Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah. *𝛿-Steal: LLM Stealing Attack with LDP*. In Proceedings of Asian Conference of Machine Learning (**ACML 2025**).
 
 Dylan Tarace, Phung Lai, **Kieu Dang**, Unal Tatar. *AI-Powered Assessment of Wazuh for Obfuscated Threat Detection*. In Proceedings of IEEE Systems and Information Engineering Design Symposium (**SIEDS 2025**).
 
-**Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah. *𝛿-Steal: LLM Stealing Attack with LDP*. In Proceedings of Asian Conference of Machine Learning (**ACML 2025**).
+**Kieu Dang**, Phung Lai. *Navigating Trustworthiness in LLMs: An Examination of Privacy, Security, and Robustness*. In Proceedings of Computational Data and Social Networks (**CSoNet 2024**).
 </ul>
 
 ## 📝 Forthcoming (Submitted)
