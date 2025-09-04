@@ -25,6 +25,8 @@ to ensure reliable and ethical deployment of LLMs in real-world applications.
 **Kieu Dang**, Phung Lai. *Navigating Trustworthiness in LLMs: An Examination of Privacy, Security, and Robustness*. In Proceedings of Computational Data and Social Networks (**CSoNet 2024**).
 
 Dylan Tarace, Phung Lai, **Kieu Dang**, Unal Tatar. *AI-Powered Assessment of Wazuh for Obfuscated Threat Detection*. In Proceedings of IEEE Systems and Information Engineering Design Symposium (**SIEDS 2025**).
+
+**Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah. *𝛿-Steal: LLM Stealing Attack with LDP*. ACML 2025.
 </ul>
 
 ## 📝 Forthcoming (Submitted)
@@ -32,8 +34,6 @@ Dylan Tarace, Phung Lai, **Kieu Dang**, Unal Tatar. *AI-Powered Assessment of Wa
 **Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin. *SafeSeal: Certifiable Watermarking for LLM Deployments*. ACM CCS 2025.
 
 **Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah, My Thai. *SoK: Are Watermarks in LLMs Ready for Deployment?* IEEE S&P 2025.
-
-**Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah. *𝛿-Steal: LLM Stealing Attack with LDP*. ECML PKDD 2025.
 </ul>
 
 # 📜 Patent
