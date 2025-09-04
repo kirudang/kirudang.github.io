@@ -42,6 +42,7 @@ Hello, I'm <span style="font-size: 28px; color: #3366cc;"><strong>Kieu Dang</str
 My research explores the intersection of **Trustworthy AI** and **Privacy-Preserving Technologies**, aiming to develop mechanisms that enhance the **security**, **privacy**, and **robustness** of large language models. I collaborate with industry and academic partners to deploy and evaluate adversarial robustness, watermarking techniques, and privacy-preserving frameworks in real-world AI systems.
 
 ## Recent Updates
+🚀 <span style="color:red; font-weight:bold;">09/2025: I am happy to share that my research paper **$\delta$-STEAL: LLM Stealing Attack with Local Differential Privacy** has been accepted at ACML 2025</span><br>
 🚀 **Summer 2025**: Mentoring 6 undergraduate students on **LLM Watermarking** at SUNY Albany. <br>
 🏆 **04/2025**: Received **Second Prize** for Best Poster at NTIR 2025.  <br>
 📜 **04/2025**: Filed a **non-provisional US patent** for *SafeSeal: Certifiable Watermarking for LLM Deployments* (April 2025).  <br>
