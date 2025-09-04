@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.33">
+<meta name="generator" content="quarto-1.7.34">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-59898bd1c6b9d2bb783127feaa000c76.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-9582434199d49cc9e91654cdeeb4866b.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4be81a1ec8ce76a220152742847d5bab.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-1f146f89096b5ed5cb6f778f510b14b3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,6 +71,49 @@ ul.task-list li input[type="checkbox"] {
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code&amp;display=swap" rel="stylesheet">
 
+  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
+  <script>document.addEventListener("DOMContentLoaded", function () {
+ var mathElements = document.getElementsByClassName("math");
+ var macros = [];
+ for (var i = 0; i < mathElements.length; i++) {
+  var texText = mathElements[i].firstChild;
+  if (mathElements[i].tagName == "SPAN") {
+   katex.render(texText.data, mathElements[i], {
+    displayMode: mathElements[i].classList.contains('display'),
+    throwOnError: false,
+    macros: macros,
+    fleqn: false
+   });
+}}});
+  </script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css">
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -180,7 +223,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="recent-updates" class="level2">
 <h2 class="anchored" data-anchor-id="recent-updates">Recent Updates</h2>
-<p>🚀 <strong>Summer 2025</strong>: Mentoring 6 undergraduate students on <strong>LLM Watermarking</strong> at SUNY Albany. <br> 🏆 <strong>04/2025</strong>: Received <strong>Second Prize</strong> for Best Poster at NTIR 2025. <br> 📜 <strong>04/2025</strong>: Filed a <strong>non-provisional US patent</strong> for <em>SafeSeal: Certifiable Watermarking for LLM Deployments</em> (April 2025). <br> ✍️ <strong>02/2025</strong>: First-authored and submitted papers on <strong>certifiable watermarking</strong> and <strong>LLM security</strong> to top security conferences (ACM CCS, IEEE S&amp;P, ECML PKDD). <br></p>
+<p>🚀 <span style="color:red; font-weight:bold;">09/2025: I am happy to share that my research paper <strong><span class="math inline">\delta</span>-STEAL: LLM Stealing Attack with Local Differential Privacy</strong> has been accepted at ACML 2025</span><br> 🚀 <strong>Summer 2025</strong>: Mentoring 6 undergraduate students on <strong>LLM Watermarking</strong> at SUNY Albany. <br> 🏆 <strong>04/2025</strong>: Received <strong>Second Prize</strong> for Best Poster at NTIR 2025. <br> 📜 <strong>04/2025</strong>: Filed a <strong>non-provisional US patent</strong> for <em>SafeSeal: Certifiable Watermarking for LLM Deployments</em> (April 2025). <br> ✍️ <strong>02/2025</strong>: First-authored and submitted papers on <strong>certifiable watermarking</strong> and <strong>LLM security</strong> to top security conferences (ACM CCS, IEEE S&amp;P, ECML PKDD). <br></p>
 </section>
 <section id="quick-links" class="level2">
 <h2 class="anchored" data-anchor-id="quick-links">Quick Links</h2>
