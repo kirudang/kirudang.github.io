@@ -1,124 +1,5 @@
 [
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Here you’ll find my thoughts, tutorials, and updates about my work.\n\n\n\n\n\nDate: January 1, 2024\nA brief description of the blog post content.\n\n\n\nDate: December 15, 2023\nA brief description of the blog post content.\n\n\n\n\n\n\nResearch Updates\nTutorials\nProject Updates\nGeneral Thoughts\n\n\n\n\nStay updated with my latest posts by following me on Twitter or subscribing to the RSS feed."
-  },
-  {
-    "objectID": "blog/index.html#recent-posts",
-    "href": "blog/index.html#recent-posts",
-    "title": "Blog",
-    "section": "",
-    "text": "Date: January 1, 2024\nA brief description of the blog post content.\n\n\n\nDate: December 15, 2023\nA brief description of the blog post content."
-  },
-  {
-    "objectID": "blog/index.html#categories",
-    "href": "blog/index.html#categories",
-    "title": "Blog",
-    "section": "",
-    "text": "Research Updates\nTutorials\nProject Updates\nGeneral Thoughts"
-  },
-  {
-    "objectID": "blog/index.html#subscribe",
-    "href": "blog/index.html#subscribe",
-    "title": "Blog",
-    "section": "",
-    "text": "Stay updated with my latest posts by following me on Twitter or subscribing to the RSS feed."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "📝 Blog and Professional Channels",
-    "section": "",
-    "text": "Welcome! Here you can find my professional writings, research updates, and project showcases across different platforms:\n\n📰 Medium — Articles and insights on data science, AI, and technology.  🧑‍💻 GitHub — Code repositories, project demos, and practical implementations.  🎓 Google Scholar — Academic publications and research contributions.  🔗 LinkedIn — Connect and follow my professional updates. \nThank you for your time!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kieu Dang",
-    "section": "",
-    "text": "Welcome to my profile! \n\n\n\n\n\nHello, I’m Kieu Dang  🎓 PhD Student in Cybersecurity with a focus on LLMs. 🏫 State University of New York at Albany (SUNY Albany) 📍 New York, USA \n🔬 Research Interests:\n- Trustworthy Machine Learning and AI\n- Privacy-Preserving Machine Learning\n- Adversarial Robustness and Watermarking"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Kieu Dang",
-    "section": "",
-    "text": "Welcome to my profile! \n\n\n\n\n\nHello, I’m Kieu Dang  🎓 PhD Student in Cybersecurity with a focus on LLMs. 🏫 State University of New York at Albany (SUNY Albany) 📍 New York, USA \n🔬 Research Interests:\n- Trustworthy Machine Learning and AI\n- Privacy-Preserving Machine Learning\n- Adversarial Robustness and Watermarking"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Kieu Dang",
-    "section": "Education",
-    "text": "Education\n🎓 PhD Student in Cybersecurity, State University of New York at Albany, USA (Aug 2024 – Present)  - Cumulative GPA: 4.00/4.00.  - Research Focus: Trustworthy Machine Learning and AI through the lens of Privacy and Security.\n🎓 Master in Analytics, Applied Machine Intelligence, Northeastern University, USA (Aug 2021 – Jul 2023)  - Valedictorian of Fall 2021 cohort.  - Cumulative GPA: 4.00/4.00.  - Thesis: Improving Safety through the Integration of Multi-sensor Fusion and Deep Learning-based Object Detection."
-  },
-  {
-    "objectID": "index.html#research-overview",
-    "href": "index.html#research-overview",
-    "title": "Kieu Dang",
-    "section": "Research Overview",
-    "text": "Research Overview\nMy research explores the intersection of Trustworthy AI and Privacy-Preserving Technologies, aiming to develop mechanisms that enhance the security, privacy, and robustness of large language models. I collaborate with industry and academic partners to deploy and evaluate adversarial robustness, watermarking techniques, and privacy-preserving frameworks in real-world AI systems."
-  },
-  {
-    "objectID": "index.html#recent-updates",
-    "href": "index.html#recent-updates",
-    "title": "Kieu Dang",
-    "section": "Recent Updates",
-    "text": "Recent Updates\n🔬 09/2025: Published a Watermark Leaderboard on Hugging Face. 🎉 09/2025: I am happy to share that my research paper \\delta-STEAL: LLM Stealing Attack with Local Differential Privacy has been accepted at ACML 2025. 🚀 Summer 2025: Mentoring 6 undergraduate students on LLM Watermarking at SUNY Albany.  🏆 04/2025: Received Second Prize for Best Poster at NTIR 2025.  📜 04/2025: Filed a non-provisional US patent for SafeSeal: Certifiable Watermarking for LLM Deployments (April 2025).  ✍️ 02/2025: First-authored and submitted papers on certifiable watermarking and LLM security to top security conferences (ACM CCS, IEEE S&P, ECML PKDD)."
-  },
-  {
-    "objectID": "index.html#quick-links",
-    "href": "index.html#quick-links",
-    "title": "Kieu Dang",
-    "section": "Quick Links",
-    "text": "Quick Links\n🔬 Research  🎓 Academic Experience  💼 Professional Experience  🛠️ Practical Projects  📝 Blog  📄 CV"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Kieu Dang",
-    "section": "Contact",
-    "text": "Contact\n📧 vdang@albany.edu  📰 Medium  🧑‍💻 GitHub  🎓 Google Scholar\nThank you!"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "🔬 Research",
-    "section": "",
-    "text": "Trustworthy AI, with a focus on privacy, security, and robustness in large language models (LLMs).\n\n🛡️ My work explores: - 🔒 Adversarial robustness - 🔐 Differential privacy - 💧 Watermarking techniques\nto ensure reliable and ethical deployment of LLMs in real-world applications."
-  },
-  {
-    "objectID": "research.html#published",
-    "href": "research.html#published",
-    "title": "🔬 Research",
-    "section": "📖 Published",
-    "text": "📖 Published\n\nKieu Dang, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah. 𝛿-Steal: LLM Stealing Attack with LDP. In Proceedings of Asian Conference of Machine Learning (ACML 2025).\nDylan Tarace, Phung Lai, Kieu Dang, Unal Tatar. AI-Powered Assessment of Wazuh for Obfuscated Threat Detection. In Proceedings of IEEE Systems and Information Engineering Design Symposium (SIEDS 2025).\nKieu Dang, Phung Lai. Navigating Trustworthiness in LLMs: An Examination of Privacy, Security, and Robustness. In Proceedings of Computational Data and Social Networks (CSoNet 2024)."
-  },
-  {
-    "objectID": "research.html#forthcoming-submitted",
-    "href": "research.html#forthcoming-submitted",
-    "title": "🔬 Research",
-    "section": "📝 Forthcoming (Submitted)",
-    "text": "📝 Forthcoming (Submitted)\n\nKieu Dang, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin. SafeSeal: Certifiable Watermarking for LLM Deployments. ACM CCS 2025.\nKieu Dang, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah, My Thai. SoK: Are Watermarks in LLMs Ready for Deployment? IEEE S&P 2025."
-  },
-  {
-    "objectID": "academic.html",
-    "href": "academic.html",
-    "title": "🏫 Academic Experience",
-    "section": "",
-    "text": "🎓 Education\n\n\nPh.D. Student in Information Science Aug 2024 – Present 🏫 State University of New York at Albany, NY, USA 🔬 Research Topic: Trustworthy Machine Learning and AI through the Lens of Privacy and Security 📊 GPA: 4.00/4.00\n\n\nMaster in Analytics, Applied Machine Intelligence Aug 2021 – Jul 2023 🏫 Northeastern University, MA, USA 📝 Thesis: Improving Safety through the Integration of Multi-sensor Fusion and Deep Learning-based Object Detection 📊 GPA: 4.00/4.00\n\n\n\n\n👨‍🏫 Teaching & Student Mentorship Experience\n\n\nIntern Mentor – State University of New York at Albany Jan 2024 – Present 🤝 Mentored undergraduate interns on the project Transforming Large Language Model Alignment: Automating Reference Data Generation through Explainable AI.\n\n\nTeaching Assistant – Northeastern University Aug 2021 – Dec 2021 📚 Course: ALY 6010 - Introduction to Statistics and Probability\n\n\n\n\n🏆 Honors & Awards\n\n🥈 Second Prize, Best Poster at NTIR 2025 Apr 2025  🎓 Valedictorian, Master in Analytics, Northeastern University Jul 2023  🏅 Hackathon Winner – OCR and Language Model for Form Autofill, Definity Financial Feb 2023  🎯 Top 20 Finalist – VinUniversity Global Case Competition Dec 2021  💰 Merit-based Scholarship, Foreign Trade University 2013 & 2014  🌟 Talent Incubation Scholarship, Coca-Cola Vietnam & Thanh Nien News Nov 2013  🌍 Ambassador – Exchange Participant, AIESEC Indonesia Jun–Aug 2013 \n\n\n\n🤝 Professional Services\n\n🎪 Organizer committee, NTIR Conference - Where Innovation Meets Information 2025 April 2025  📖 Journal Reviewer, Journal of Combinatorial Optimization 2025 Jan–May 2025  📝 Conference Reviewer, Computational Data and Social Networks 2024 Oct–Dec 2024"
-  },
-  {
-    "objectID": "professional.html",
-    "href": "professional.html",
-    "title": "💼 Professional Experience",
-    "section": "",
-    "text": "Machine Learning Content Engineer (Freelancer – Partner Program) Nov 2022 – Present 🏢 A Medium Corporation, CA, USA 📝 Translate complex machine learning topics, especially in NLP, into accessible and insightful content for a diverse audience.\n\n\nSenior Data Scientist (Remote Full Time) Oct 2023 – May 2024 🏢 Hitachi Vantara Corporation, CA, USA - 🤖 Applied deep learning to deploy predictive models across healthcare, retail, manufacturing, and finance. - 🧠 Enhanced financial text analytics using advanced NLP techniques. - 📈 Built causal time series models to improve retail supply chain forecasting.\n\n\nData Scientist and Modeling (Co-op) Jan 2023 – May 2023 🏢 Definity Financial, ON, Canada - 🖼️ Prepared image, text, and tabular data on car accidents for predictive modeling. - 🚀 Built and deployed four models for underwriting, actuary, and claims with reproducible pipelines.\n\n\nSenior Manager, Category Management Sep 2020 – Aug 2021 🏢 Alibaba Group – Lazada E-commerce, HCMC, Vietnam - 🔍 Collaborated with the Data Science team to evaluate search exposure and sales drivers using text mining and A/B testing techniques. - 📊 Conducted hypothesis-driven ad-hoc analysis to address business-critical operational queries."
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "🚀 Practical Projects",
@@ -154,6 +35,34 @@
     "text": "📘 IV. Data Analysis and Business Intelligence\n\n✨ Walmart Ecommerce Dashboard Project\n\n\nThis project showcases the creation of an interactive Ecommerce Dashboard for Walmart using Power BI. The goal was to analyze and visualize key performance indicators (KPIs) to gain insights into sales, revenue, customer behavior, and more. The project followed a structured approach, encompassing defining KPIs, working with raw data in SQL Server for efficient manipulation, building SQL queries for validation, connecting Power BI for visualization, and utilizing Power Query for data cleaning.\n\n\n\n\n\n  \n\n\nView code on Github\n\n\n\n\n\n✨ CO2 Emission Data Visualization Dashboard\n\n\nThis interactive dashboard project empowers users to explore and visualize carbon dioxide (CO2) emissions data from Our World in Data. It leverages cutting-edge Python libraries, including Panel, Hvplot, and GeoPandas, to create an intuitive and informative platform for analyzing CO2 emissions worldwide. The dashboard enables users to filter emissions data by year and country, compare emissions trends through scatterplots, and visualize geographical variations on a map.\n\n\n\n\n\n   \n\n\nView code on Github"
   },
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "🔬 Research",
+    "section": "",
+    "text": "Trustworthy AI, with a focus on privacy, security, and robustness in large language models (LLMs).\n\n🛡️ My work explores: - 🔒 Adversarial robustness - 🔐 Differential privacy - 💧 Watermarking techniques\nto ensure reliable and ethical deployment of LLMs in real-world applications."
+  },
+  {
+    "objectID": "research.html#published",
+    "href": "research.html#published",
+    "title": "🔬 Research",
+    "section": "📖 Published",
+    "text": "📖 Published\n\nKieu Dang, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah. 𝛿-Steal: LLM Stealing Attack with LDP. In Proceedings of Asian Conference of Machine Learning (ACML 2025).\nDylan Tarace, Phung Lai, Kieu Dang, Unal Tatar. AI-Powered Assessment of Wazuh for Obfuscated Threat Detection. In Proceedings of IEEE Systems and Information Engineering Design Symposium (SIEDS 2025).\nKieu Dang, Phung Lai. Navigating Trustworthiness in LLMs: An Examination of Privacy, Security, and Robustness. In Proceedings of Computational Data and Social Networks (CSoNet 2024)."
+  },
+  {
+    "objectID": "research.html#forthcoming-submitted",
+    "href": "research.html#forthcoming-submitted",
+    "title": "🔬 Research",
+    "section": "📝 Forthcoming (Submitted)",
+    "text": "📝 Forthcoming (Submitted)\n\nKieu Dang, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin. SafeSeal: Certifiable Watermarking for LLM Deployments. ACM CCS 2025.\nKieu Dang, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah, My Thai. SoK: Are Watermarks in LLMs Ready for Deployment? IEEE S&P 2025."
+  },
+  {
+    "objectID": "professional.html",
+    "href": "professional.html",
+    "title": "💼 Professional Experience",
+    "section": "",
+    "text": "Machine Learning Content Engineer (Freelancer – Partner Program) Nov 2022 – Present 🏢 A Medium Corporation, CA, USA 📝 Translate complex machine learning topics, especially in NLP, into accessible and insightful content for a diverse audience.\n\n\nSenior Data Scientist (Remote Full Time) Oct 2023 – May 2024 🏢 Hitachi Vantara Corporation, CA, USA - 🤖 Applied deep learning to deploy predictive models across healthcare, retail, manufacturing, and finance. - 🧠 Enhanced financial text analytics using advanced NLP techniques. - 📈 Built causal time series models to improve retail supply chain forecasting.\n\n\nData Scientist and Modeling (Co-op) Jan 2023 – May 2023 🏢 Definity Financial, ON, Canada - 🖼️ Prepared image, text, and tabular data on car accidents for predictive modeling. - 🚀 Built and deployed four models for underwriting, actuary, and claims with reproducible pipelines.\n\n\nSenior Manager, Category Management Sep 2020 – Aug 2021 🏢 Alibaba Group – Lazada E-commerce, HCMC, Vietnam - 🔍 Collaborated with the Data Science team to evaluate search exposure and sales drivers using text mining and A/B testing techniques. - 📊 Conducted hypothesis-driven ad-hoc analysis to address business-critical operational queries."
+  },
+  {
     "objectID": "projects copy.html",
     "href": "projects copy.html",
     "title": "Practical Projects",
@@ -187,5 +96,96 @@
     "title": "Practical Projects",
     "section": "📘 IV. Data Analysis and Business Intelligence",
     "text": "📘 IV. Data Analysis and Business Intelligence\n\n✨ Walmart Ecommerce Dashboard Project\nThis project showcases the creation of an interactive Ecommerce Dashboard for Walmart using Power BI. The goal was to analyze and visualize key performance indicators (KPIs) to gain insights into sales, revenue, customer behavior, and more. The project followed a structured approach, encompassing defining KPIs, working with raw data in SQL Server for efficient manipulation, building SQL queries for validation, connecting Power BI for visualization, and utilizing Power Query for data cleaning. By incorporating calculated measures and time intelligence functions, the dashboard provides a comprehensive overview of Walmart’s ecommerce operations. The project follows a standard pipeline in BI and DA, starting from database to transformation and visualization.\n\n\n  \nView code on Github\n\n\n✨ CO2 Emission Data Visualization Dashboard\nThis interactive dashboard project empowers users to explore and visualize carbon dioxide (CO2) emissions data from Our World in Data. It leverages cutting-edge Python libraries, including Panel, Hvplot, and GeoPandas, to create an intuitive and informative platform for analyzing CO2 emissions worldwide. The dashboard enables users to filter emissions data by year and country, compare emissions trends through scatterplots, and visualize geographical variations on a map. It serves as a valuable tool for gaining insights into the primary driver of global climate change and fostering data-driven discussions around emissions reduction.\n\n\n   \nView code on Github"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kieu Dang",
+    "section": "",
+    "text": "Welcome to my profile! \n\n\n\n\n\nHello, I’m Kieu Dang  🎓 PhD Student in Cybersecurity with a focus on LLMs. 🏫 State University of New York at Albany (SUNY Albany) 📍 New York, USA \n🔬 Research Interests:\n- Trustworthy Machine Learning and AI\n- Privacy-Preserving Machine Learning\n- Adversarial Robustness and Watermarking"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Kieu Dang",
+    "section": "",
+    "text": "Welcome to my profile! \n\n\n\n\n\nHello, I’m Kieu Dang  🎓 PhD Student in Cybersecurity with a focus on LLMs. 🏫 State University of New York at Albany (SUNY Albany) 📍 New York, USA \n🔬 Research Interests:\n- Trustworthy Machine Learning and AI\n- Privacy-Preserving Machine Learning\n- Adversarial Robustness and Watermarking"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Kieu Dang",
+    "section": "Education",
+    "text": "Education\n🎓 PhD Student in Cybersecurity, State University of New York at Albany, USA (Aug 2024 – Present)  - Cumulative GPA: 4.00/4.00.  - Research Focus: Trustworthy Machine Learning and AI through the lens of Privacy and Security.\n🎓 Master in Analytics, Applied Machine Intelligence, Northeastern University, USA (Aug 2021 – Jul 2023)  - Valedictorian of Fall 2021 cohort.  - Cumulative GPA: 4.00/4.00.  - Thesis: Improving Safety through the Integration of Multi-sensor Fusion and Deep Learning-based Object Detection."
+  },
+  {
+    "objectID": "index.html#research-overview",
+    "href": "index.html#research-overview",
+    "title": "Kieu Dang",
+    "section": "Research Overview",
+    "text": "Research Overview\nMy research explores the intersection of Trustworthy AI and Privacy-Preserving Technologies, aiming to develop mechanisms that enhance the security, privacy, and robustness of large language models. I collaborate with industry and academic partners to deploy and evaluate adversarial robustness, watermarking techniques, and privacy-preserving frameworks in real-world AI systems."
+  },
+  {
+    "objectID": "index.html#recent-updates",
+    "href": "index.html#recent-updates",
+    "title": "Kieu Dang",
+    "section": "Recent Updates",
+    "text": "Recent Updates\n📜 10/2025: My watermark patent is accepted on October 8, 2025. 🔬 09/2025: Published a Watermark Leaderboard on Hugging Face. 🎉 09/2025: I am happy to share that my research paper \\delta-STEAL: LLM Stealing Attack with Local Differential Privacy has been accepted at ACML 2025. 🚀 Summer 2025: Mentoring 6 undergraduate students on LLM Watermarking at SUNY Albany.  🏆 04/2025: Received Second Prize for Best Poster at NTIR 2025.  📜 04/2025: Filed a non-provisional US patent for SafeSeal: Certifiable Watermarking for LLM Deployments (April 2025).  ✍️ 02/2025: First-authored and submitted papers on certifiable watermarking and LLM security to top security conferences (ACM CCS, IEEE S&P, ECML PKDD)."
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Kieu Dang",
+    "section": "Quick Links",
+    "text": "Quick Links\n🔬 Research  🎓 Academic Experience  💼 Professional Experience  🛠️ Practical Projects  📝 Blog  📄 CV"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Kieu Dang",
+    "section": "Contact",
+    "text": "Contact\n📧 vdang@albany.edu  📰 Medium  🧑‍💻 GitHub  🎓 Google Scholar\nThank you!"
+  },
+  {
+    "objectID": "academic.html",
+    "href": "academic.html",
+    "title": "🏫 Academic Experience",
+    "section": "",
+    "text": "🎓 Education\n\n\nPh.D. Student in Information Science Aug 2024 – Present 🏫 State University of New York at Albany, NY, USA 🔬 Research Topic: Trustworthy Machine Learning and AI through the Lens of Privacy and Security 📊 GPA: 4.00/4.00\n\n\nMaster in Analytics, Applied Machine Intelligence Aug 2021 – Jul 2023 🏫 Northeastern University, MA, USA 📝 Thesis: Improving Safety through the Integration of Multi-sensor Fusion and Deep Learning-based Object Detection 📊 GPA: 4.00/4.00\n\n\n\n\n👨‍🏫 Teaching & Student Mentorship Experience\n\n\nIntern Mentor – State University of New York at Albany Jan 2024 – Present 🤝 Mentored undergraduate interns on the project Transforming Large Language Model Alignment: Automating Reference Data Generation through Explainable AI.\n\n\nTeaching Assistant – Northeastern University Aug 2021 – Dec 2021 📚 Course: ALY 6010 - Introduction to Statistics and Probability\n\n\n\n\n🏆 Honors & Awards\n\n🥈 Second Prize, Best Poster at NTIR 2025 Apr 2025  🎓 Valedictorian, Master in Analytics, Northeastern University Jul 2023  🏅 Hackathon Winner – OCR and Language Model for Form Autofill, Definity Financial Feb 2023  🎯 Top 20 Finalist – VinUniversity Global Case Competition Dec 2021  💰 Merit-based Scholarship, Foreign Trade University 2013 & 2014  🌟 Talent Incubation Scholarship, Coca-Cola Vietnam & Thanh Nien News Nov 2013  🌍 Ambassador – Exchange Participant, AIESEC Indonesia Jun–Aug 2013 \n\n\n\n🤝 Professional Services\n\n🎪 Organizer committee, NTIR Conference - Where Innovation Meets Information 2025 April 2025  📖 Journal Reviewer, Journal of Combinatorial Optimization 2025 Jan–May 2025  📝 Conference Reviewer, Computational Data and Social Networks 2024 Oct–Dec 2024"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "📝 Blog and Professional Channels",
+    "section": "",
+    "text": "Welcome! Here you can find my professional writings, research updates, and project showcases across different platforms:\n\n📰 Medium — Articles and insights on data science, AI, and technology.  🧑‍💻 GitHub — Code repositories, project demos, and practical implementations.  🎓 Google Scholar — Academic publications and research contributions.  🔗 LinkedIn — Connect and follow my professional updates. \nThank you for your time!"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Here you’ll find my thoughts, tutorials, and updates about my work.\n\n\n\n\n\nDate: January 1, 2024\nA brief description of the blog post content.\n\n\n\nDate: December 15, 2023\nA brief description of the blog post content.\n\n\n\n\n\n\nResearch Updates\nTutorials\nProject Updates\nGeneral Thoughts\n\n\n\n\nStay updated with my latest posts by following me on Twitter or subscribing to the RSS feed."
+  },
+  {
+    "objectID": "blog/index.html#recent-posts",
+    "href": "blog/index.html#recent-posts",
+    "title": "Blog",
+    "section": "",
+    "text": "Date: January 1, 2024\nA brief description of the blog post content.\n\n\n\nDate: December 15, 2023\nA brief description of the blog post content."
+  },
+  {
+    "objectID": "blog/index.html#categories",
+    "href": "blog/index.html#categories",
+    "title": "Blog",
+    "section": "",
+    "text": "Research Updates\nTutorials\nProject Updates\nGeneral Thoughts"
+  },
+  {
+    "objectID": "blog/index.html#subscribe",
+    "href": "blog/index.html#subscribe",
+    "title": "Blog",
+    "section": "",
+    "text": "Stay updated with my latest posts by following me on Twitter or subscribing to the RSS feed."
   }
 ]
