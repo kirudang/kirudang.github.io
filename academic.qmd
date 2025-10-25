@@ -48,7 +48,7 @@ format: html
 
 <ul class="custom-list">
   <li>
-🏆 CEAIS Seed Grant Award (Co-Investigator), IBM Center for Emerging Artificial Intelligence Systems <span class="date-inline">Nov 2025</span><br>
+🏆 CEAIS Seed Grant Award (Co-Investigator), IBM Center for Emerging AI Systems <span class="date-inline">Nov 2025</span><br>
 🔒 IP Protection Invention Award, College of Emergency Preparedness and Homeland Security <span class="date-inline">Oct 2025</span><br>
 ✈️ Travel Fund Award ($1,000), Research Foundation, SUNY Albany <span class="date-inline">Oct 2025</span><br>
 🥈 Second Prize, Best Poster – <em>A LDP Watermark with Guaranteed Utility for LLMs</em>, NTIR 2025 <span class="date-inline">Apr 2025</span><br>
