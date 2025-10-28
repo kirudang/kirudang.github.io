@@ -44,12 +44,9 @@ My research explores the intersection of **Trustworthy AI** and **Privacy-Preser
 ## Recent Updates
 🏆 <span style="color:blue;">**11/2025**: Our proposal “Scalable Watermarking for LLM Outputs: IP Protection and Attribution on AIU Spyre” was selected as a 2025 CEAIS Seed Grant awardee (IBM Center for Emerging Artificial Intelligence Systems).</span><br>
 📜 <span style="color:blue;">**10/2025**: My watermark patent is accepted on October 8, 2025.</span><br>
-🔬 <span style="color:blue;">**09/2025**: Published a [Watermark Leaderboard](https://huggingface.co/spaces/kirudang/watermark-leaderboard) on Hugging Face.</span><br>
 🎉 <span style="color:blue;">**09/2025**: I am happy to share that my research paper *$\delta$-STEAL: LLM Stealing Attack with Local Differential Privacy* has been accepted at **ACML 2025**.</span><br>
 🚀 **Summer 2025**: Mentoring 6 undergraduate students on **LLM Watermarking** at SUNY Albany. <br>
 🏆 **04/2025**: Received **Second Prize** for Best Poster at NTIR 2025.  <br>
-📜 **04/2025**: Filed a **non-provisional US patent** for *SafeSeal: Certifiable Watermarking for LLM Deployments* (April 2025).  <br>
-✍️ **02/2025**: First-authored and submitted papers on **certifiable watermarking** and **LLM security** to top security conferences (ACM CCS, IEEE S&P, ECML PKDD).  <br>
 
 ## Quick Links
 
