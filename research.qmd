@@ -31,7 +31,7 @@ Dylan Tarace, Phung Lai, **Kieu Dang**, Unal Tatar. *AI-Powered Assessment of Wa
 
 ## 📝 Forthcoming (Submitted)
 <ul class="custom-list">
-**Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin. *SafeSeal: Certifiable Watermarking for LLM Deployments*. ACM CCS 2025.
+**Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin. *Watermark Paper*. ACM CCS 2025.
 
 **Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah, My Thai. *SoK: Are Watermarks in LLMs Ready for Deployment?* IEEE S&P 2025.
 </ul>
@@ -39,7 +39,7 @@ Dylan Tarace, Phung Lai, **Kieu Dang**, Unal Tatar. *AI-Powered Assessment of Wa
 # 📜 Patent
 
 <ul class="custom-list">
-**Kieu Dang**, Phung Lai, NhatHai Phan. *SafeSeal: Certifiable Watermarking for LLM Deployments* — Filed non-provisional US patent, April 15, 2025.
+**Kieu Dang**, Phung Lai, NhatHai Phan. *Watermark Technique* — Filed non-provisional US patent, April 15, 2025.
 </ul>
 
 # 🏛️ Research Experience
