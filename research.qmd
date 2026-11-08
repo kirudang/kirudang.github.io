@@ -22,6 +22,8 @@ to ensure reliable and ethical deployment of LLMs in real-world applications.
 
 ## 📖 Published
 <ul class="custom-list">
+<strong>Kieu Dang</strong>, Huy Phan, Ojaswi Dulal, Aiham Al Shukairi, Abby Shine, Chase Garner, Phung Lai. <em>LLM Watermarking as Big Data Provenance: A Deployment-Oriented Systematization</em>. In Proceedings of the 13th IEEE Special Session on Privacy and Security of Big Data, IEEE BigData (<strong>PSBD 2026</strong>).
+
 **Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah. *𝛿-Steal: LLM Stealing Attack with LDP*. In Proceedings of Asian Conference of Machine Learning (**ACML 2025**).
 
 Dylan Tarace, Phung Lai, **Kieu Dang**, Unal Tatar. *AI-Powered Assessment of Wazuh for Obfuscated Threat Detection*. In Proceedings of IEEE Systems and Information Engineering Design Symposium (**SIEDS 2025**).
@@ -29,28 +31,41 @@ Dylan Tarace, Phung Lai, **Kieu Dang**, Unal Tatar. *AI-Powered Assessment of Wa
 **Kieu Dang**, Phung Lai. *Navigating Trustworthiness in LLMs: An Examination of Privacy, Security, and Robustness*. In Proceedings of Computational Data and Social Networks (**CSoNet 2024**).
 </ul>
 
-## 📝 Forthcoming (Submitted)
-<ul class="custom-list">
-**Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin. *Watermark Paper*. ACM CCS 2025.
+## 📝 Forthcoming
+<ul class="custom-list"> 
+**Kieu Dang**, Phung Lai, Ching-Yun Ko, Pin-Yu Chen. *Adaptive Co-Serving LLM Watermarking on Modern Inference Engines*, 2026.
 
-**Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah, My Thai. *SoK: Are Watermarks in LLMs Ready for Deployment?* IEEE S&P 2025.
+**Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin. *Robust LLM Watermarking with Minimal Semantic Distortion for IP Protection*, 2025. 
+
+**Kieu Dang**, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah, My Thai. *SoK: Are Watermarks in LLMs Ready for Deployment?*, 2025.
 </ul>
 
-# 📜 Patent
+# 📜 Patents
 
 <ul class="custom-list">
-**Kieu Dang**, Phung Lai, NhatHai Phan. *Watermark Technique* — Filed non-provisional US patent, April 15, 2025.
+**Kieu Dang**, Phung Lai, Ching-Yun Ko, Pin-Yu Chen. * SWIFT Watermark Technique on Inference Engines* — Filed Non-provisional US patent, Oct, 2026.
+
+**Kieu Dang**, Phung Lai, NhatHai Phan. * SafeSeal Watermark Technique* — Non-provisional US patent, April 15, 2025.
 </ul>
+
 
 # 🏛️ Research Experience
 
 <ul class="custom-list">
+<li>
+<strong>Research Collaboration – IBM Research</strong> <span class="date-inline">Jan 2026 – Present</span><br>
+🤝 Collaborating with IBM Research on trustworthy generative AI, focusing on scalable AI provenance and security.<br>
+🔬 Developing LLM watermarking methods integrated into inference engines for efficient, deployment-ready provenance tracking.<br>
+🛡️ Investigating provenance and attribution mechanisms for agentic AI workflows and multimodal AI systems.
+</li>
+
 <li>
 <strong>Responsible AI Lab – State University of New York at Albany</strong> <span class="date-inline">Jan 2024 – Present</span><br>
 🤝 Collaborating with Microsoft, NJIT, KSU, UF, and HBKU (Qatar) on trustworthy machine learning experiments.<br>
 🧪 Designing and evaluating adversarial robustness strategies for LLMs.
 </li>
 </ul>
+
 
 <style>
 .research-card {

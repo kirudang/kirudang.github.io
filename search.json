@@ -11,14 +11,14 @@
     "href": "research.html#published",
     "title": "🔬 Research",
     "section": "📖 Published",
-    "text": "📖 Published\n\nKieu Dang, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah. 𝛿-Steal: LLM Stealing Attack with LDP. In Proceedings of Asian Conference of Machine Learning (ACML 2025).\nDylan Tarace, Phung Lai, Kieu Dang, Unal Tatar. AI-Powered Assessment of Wazuh for Obfuscated Threat Detection. In Proceedings of IEEE Systems and Information Engineering Design Symposium (SIEDS 2025).\nKieu Dang, Phung Lai. Navigating Trustworthiness in LLMs: An Examination of Privacy, Security, and Robustness. In Proceedings of Computational Data and Social Networks (CSoNet 2024)."
+    "text": "📖 Published\n\nKieu Dang, Huy Phan, Ojaswi Dulal, Aiham Al Shukairi, Abby Shine, Chase Garner, Phung Lai. LLM Watermarking as Big Data Provenance: A Deployment-Oriented Systematization. In Proceedings of the 13th IEEE Special Session on Privacy and Security of Big Data, IEEE BigData (PSBD 2026).\nKieu Dang, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah. 𝛿-Steal: LLM Stealing Attack with LDP. In Proceedings of Asian Conference of Machine Learning (ACML 2025).\nDylan Tarace, Phung Lai, Kieu Dang, Unal Tatar. AI-Powered Assessment of Wazuh for Obfuscated Threat Detection. In Proceedings of IEEE Systems and Information Engineering Design Symposium (SIEDS 2025).\nKieu Dang, Phung Lai. Navigating Trustworthiness in LLMs: An Examination of Privacy, Security, and Robustness. In Proceedings of Computational Data and Social Networks (CSoNet 2024)."
   },
   {
-    "objectID": "research.html#forthcoming-submitted",
-    "href": "research.html#forthcoming-submitted",
+    "objectID": "research.html#forthcoming",
+    "href": "research.html#forthcoming",
     "title": "🔬 Research",
-    "section": "📝 Forthcoming (Submitted)",
-    "text": "📝 Forthcoming (Submitted)\n\nKieu Dang, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin. Watermark Paper. ACM CCS 2025.\nKieu Dang, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah, My Thai. SoK: Are Watermarks in LLMs Ready for Deployment? IEEE S&P 2025."
+    "section": "📝 Forthcoming",
+    "text": "📝 Forthcoming\n\nKieu Dang, Phung Lai, Ching-Yun Ko, Pin-Yu Chen. Adaptive Co-Serving LLM Watermarking on Modern Inference Engines, 2026.\nKieu Dang, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin. Robust LLM Watermarking with Minimal Semantic Distortion for IP Protection, 2025.\nKieu Dang, Phung Lai, NhatHai Phan, Yelong Shen, Ruoming Jin, Abdallah Khreishah, My Thai. SoK: Are Watermarks in LLMs Ready for Deployment?, 2025."
   },
   {
     "objectID": "academic.html",
