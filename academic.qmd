@@ -7,17 +7,17 @@ format: html
 
 <ul class="custom-list">
 <li>
-<strong>Ph.D. Student in Information Science</strong> <span class="date-inline">Aug 2024 – Present</span><br>
+<strong>Ph.D. Candidate in Information Science</strong> <span class="date-inline">Aug 2024 – Present</span><br>
 🏫 State University of New York at Albany, NY, USA<br>
 🔬 Research Topic: Trustworthy Machine Learning and AI through the Lens of Privacy and Security<br>
-📊 GPA: 4.00/4.00
+📊 GPA: 4.00/4.00 - Highest GPA in Cohort
 </li>
 
 <li>
 <strong>Master in Analytics, Applied Machine Intelligence</strong> <span class="date-inline">Aug 2021 – Jul 2023</span><br>
 🏫 Northeastern University, MA, USA<br>
 📝 Thesis: Improving Safety through the Integration of Multi-sensor Fusion and Deep Learning-based Object Detection<br>
-📊 GPA: 4.00/4.00
+📊 GPA: 4.00/4.00 - Valedictorian
 </li>
 </ul>
 
@@ -64,6 +64,7 @@ format: html
 # 🤝 Professional Services
 
 <ul class="custom-list">
+🎤 Presenter, South Colonie AI Superintendent's Conference Day <span class="date-inline">September 2026</span> <br>
 🎪 Organizer committee, NTIR Conference - Where Innovation Meets Information 2025 <span class="date-inline">April 2025</span> <br>
 📖 Journal Reviewer, Journal of Combinatorial Optimization 2025 <span class="date-inline">Jan–May 2025</span> <br>
 📝 Conference Reviewer, Computational Data and Social Networks 2024 <span class="date-inline">Oct–Dec 2024</span> <br>
