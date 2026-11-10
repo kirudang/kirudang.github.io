@@ -28,13 +28,12 @@ Hello, I'm <span style="font-size: 28px; color: #3366cc;"><strong>Kieu Dang</str
 
 ## Education
 
-🎓 **PhD Student in Cybersecurity**, State University of New York at Albany, USA (Aug 2024 – Present)  <br>
-  - Cumulative GPA: 4.00/4.00. <br>
+🎓 **PhD Candidate in Information Science**, State University of New York at Albany, USA (Aug 2024 – Present)  <br>
+  - Cumulative GPA: 4.00/4.00 Highest GPA in Cohort. <br>
   - Research Focus: Trustworthy Machine Learning and AI through the lens of Privacy and Security.
 
 🎓 **Master in Analytics, Applied Machine Intelligence**, Northeastern University, USA (Aug 2021 – Jul 2023) <br>
-  - Valedictorian of Fall 2021 cohort. <br>
-  - Cumulative GPA: 4.00/4.00.  <br>
+  - Cumulative GPA: 4.00/4.00 - Valedictorian.  <br>
   - Thesis: Improving Safety through the Integration of Multi-sensor Fusion and Deep Learning-based Object Detection.
 
 ## Research Overview
@@ -46,9 +45,9 @@ My research explores the intersection of **Trustworthy AI** and **Privacy-Preser
 🚀 <span style="color:blue;">**11/2026**: New paper release: *Adaptive Co-Serving LLM Watermarking on Modern Inference Engines* (SWIFT), in collaboration with IBM Research.</span><br>
 📜 <span style="color:blue;">**10/2026**: Filed a new non-provisional US patent: *SWIFT Watermark Technique on Inference Engines*.</span><br>
 🎤 <span style="color:blue;">**09/2026**: Presented at the South Colonie AI Superintendent's Conference Day.</span><br>
-🏆 <span style="color:blue;">**11/2025**: Our proposal “Scalable Watermarking for LLM Outputs: IP Protection and Attribution on AIU Spyre” was selected as a 2025 CEAIS Seed Grant awardee (IBM Center for Emerging Artificial Intelligence Systems).</span><br>
-📜 <span style="color:blue;">**10/2025**: My watermark patent is accepted on October 8, 2025.</span><br>
-🎉 <span style="color:blue;">**09/2025**: I am happy to share that my research paper *$\delta$-STEAL: LLM Stealing Attack with Local Differential Privacy* has been accepted at **ACML 2025**.</span><br>
+🏆 **11/2025**: Our proposal “Scalable Watermarking for LLM Outputs: IP Protection and Attribution on AIU Spyre” was selected as a 2025 CEAIS Seed Grant awardee (IBM Center for Emerging Artificial Intelligence Systems).<br>
+📜 **10/2025**: My watermark patent is accepted on October 8, 2025.<br>
+🎉 **09/2025**: I am happy to share that my research paper *$\delta$-STEAL: LLM Stealing Attack with Local Differential Privacy* has been accepted at **ACML 2025**.<br>
 🚀 **Summer 2025**: Mentoring 6 undergraduate students on **LLM Watermarking** at SUNY Albany. <br>
 🏆 **04/2025**: Received **Second Prize** for Best Poster at NTIR 2025.  <br>
 
