@@ -1,26 +1,41 @@
-diff --git a/.github/workflows/deploy.yml b/.github/workflows/deploy.yml
-index 94f1679..c11d4ed 100644
---- a/.github/workflows/deploy.yml
-+++ b/.github/workflows/deploy.yml
-@@ -24,6 +24,12 @@ jobs:
-       - name: Render
-         uses: quarto-dev/quarto-actions/render@v2
- 
-+      # The repo's .gitignore ignores *.css, *.js, *.json, *.png, etc. Since
-+      # deploy-action v4.9 it gets copied into gh-pages, which makes git skip
-+      # new files (e.g. Quarto's hashed bootstrap CSS). Don't ship it.
-+      - name: Remove .gitignore before deploy
-+        run: rm -f .gitignore
-+
-       - name: Deploy
-         uses: JamesIves/github-pages-deploy-action@v4
-         with:
-@@ -32,5 +38,4 @@ jobs:
-           clean: true
-           clean-exclude: |
-             .git
--            .github
--            .gitignore 
-\ No newline at end of file
-+            .github 
-\ No newline at end of file
+name: Deploy Quarto Website
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true
+
+      - name: Render
+        uses: quarto-dev/quarto-actions/render@v2
+
+      # The repo's .gitignore ignores *.css, *.js, *.json, *.png, etc. Since
+      # deploy-action v4.9 it gets copied into gh-pages, which makes git skip
+      # new files (e.g. Quarto's hashed bootstrap CSS). Don't ship it.
+      - name: Remove .gitignore before deploy
+        run: rm -f .gitignore
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: .
+          branch: gh-pages
+          clean: true
+          clean-exclude: |
+            .git
+            .github 
