@@ -42,6 +42,10 @@ Hello, I'm <span style="font-size: 28px; color: #3366cc;"><strong>Kieu Dang</str
 My research explores the intersection of **Trustworthy AI** and **Privacy-Preserving Technologies**, aiming to develop mechanisms that enhance the **security**, **privacy**, and **robustness** of large language models. I collaborate with industry and academic partners to deploy and evaluate adversarial robustness, watermarking techniques, and privacy-preserving frameworks in real-world AI systems.
 
 ## Recent Updates
+🎉 <span style="color:blue;">**11/2026**: Our paper *LLM Watermarking as Big Data Provenance: A Deployment-Oriented Systematization* has been accepted at **IEEE BigData 2026** (PSBD 2026).</span><br>
+🚀 <span style="color:blue;">**11/2026**: New paper release: *Adaptive Co-Serving LLM Watermarking on Modern Inference Engines* (SWIFT), in collaboration with IBM Research.</span><br>
+📜 <span style="color:blue;">**10/2026**: Filed a new non-provisional US patent: *SWIFT Watermark Technique on Inference Engines*.</span><br>
+🎤 <span style="color:blue;">**09/2026**: Presented at the South Colonie AI Superintendent's Conference Day.</span><br>
 🏆 <span style="color:blue;">**11/2025**: Our proposal “Scalable Watermarking for LLM Outputs: IP Protection and Attribution on AIU Spyre” was selected as a 2025 CEAIS Seed Grant awardee (IBM Center for Emerging Artificial Intelligence Systems).</span><br>
 📜 <span style="color:blue;">**10/2025**: My watermark patent is accepted on October 8, 2025.</span><br>
 🎉 <span style="color:blue;">**09/2025**: I am happy to share that my research paper *$\delta$-STEAL: LLM Stealing Attack with Local Differential Privacy* has been accepted at **ACML 2025**.</span><br>
