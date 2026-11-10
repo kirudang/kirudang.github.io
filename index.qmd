@@ -14,7 +14,7 @@ format: html
 
 ::: {.g-col-8}
 Hello, I'm <span style="font-size: 28px; color: #3366cc;"><strong>Kieu Dang</strong></span> <br>
-🎓 PhD Student in Cybersecurity with a focus on LLMs.<br>
+🎓 PhD Candidate in Information Science, Cybersecurity.<br>
 🏫 State University of New York at Albany (SUNY Albany)<br>
 📍 New York, USA <br>
 
